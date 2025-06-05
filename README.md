@@ -25,11 +25,14 @@
  <h2 align="center" style="color:#22c3e6;">Tecnologías y herramientas<img  width="35"></h2>
 
  <p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <img src="https://img.icons8.com/?size=100&id=447&format=png&color=22C3E6"></a>
-	<img src="https://img.icons8.com/?size=100&id=b9_NzGK1H_Pe&format=png&color=22C3E6"></a>
-	<img src="https://img.icons8.com/?size=100&id=39372&format=png&color=22C3E6"></a>
-	<img src="https://img.icons8.com/?size=100&id=cQfKnWABsKk9&format=png&color=22C3E6"></a>
+ <div align="center"  class="icons-social" style="margin-left: 20px;">
+        <img src="https://img.icons8.com/?size=100&id=38240&format=png&color=22C3E6"></a>
+	<img src="https://img.icons8.com/?size=100&id=26029&format=png&color=22C3E6"></a>
+	<img src="https://img.icons8.com/?size=100&id=55205&format=png&color=22C3E6"></a>
+	<img src="https://img.icons8.com/?size=100&id=11113&format=png&color=22C3E6"></a>
+	<img src="https://img.icons8.com/?size=100&id=11566&format=png&color=22C3E6"></a>
+	<img src="https://img.icons8.com/?size=100&id=03aYi0fY0D9X&format=png&color=22C3E6"></a>
+	 
  </div>
 </p>
 
