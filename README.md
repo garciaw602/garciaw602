@@ -7,9 +7,9 @@
 </div>
 
 
-<h2 align="center" style="color:#22c3e6;">Contacto<img  width="35"></h2>
 
 <p align="center">
+	<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/jqh3CLNx/1.png' border='0' alt='1'/></a>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/wilson-garcia-arboleda/">
         <img src="https://img.icons8.com/?size=100&id=447&format=png&color=22C3E6"></a>
@@ -24,9 +24,10 @@
  </div>
 </p>
 
- <h2 align="center" style="color:#22c3e6;">Tecnologías y herramientas<img  width="35"></h2>
+
 
  <p align="center">
+	 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/brMz1LMb/icons8-discord-50-Recuperado.png' border='0' alt='icons8-discord-50-Recuperado'/></a>
  <div align="center"  class="icons-social" style="margin-left: 20px;">
         <img src="https://img.icons8.com/?size=100&id=38240&format=png&color=22C3E6"></a>
 	<img src="https://img.icons8.com/?size=100&id=26029&format=png&color=22C3E6"></a>
