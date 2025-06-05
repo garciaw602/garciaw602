@@ -7,7 +7,7 @@
 </div>
 
 
-<h1 align="center" style="color: #22c3e6 !important;">Contacto<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="center" style="color:#22c3e6;">Contacto<img  width="35"></h2>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
@@ -18,6 +18,17 @@
 	<a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1CsNR1XtsRGS67A0V0TM07Y0KpWi9l2Ft/view?usp=sharing">
 	<img src="https://img.icons8.com/?size=100&id=39372&format=png&color=22C3E6"></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://garciaw602.wixstudio.com/portafolio-wilsong">
+	<img src="https://img.icons8.com/?size=100&id=cQfKnWABsKk9&format=png&color=22C3E6"></a>
+ </div>
+</p>
+
+ <h2 align="center" style="color:#22c3e6;">Tecnologías y herramientas<img  width="35"></h2>
+
+ <p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <img src="https://img.icons8.com/?size=100&id=447&format=png&color=22C3E6"></a>
+	<img src="https://img.icons8.com/?size=100&id=b9_NzGK1H_Pe&format=png&color=22C3E6"></a>
+	<img src="https://img.icons8.com/?size=100&id=39372&format=png&color=22C3E6"></a>
 	<img src="https://img.icons8.com/?size=100&id=cQfKnWABsKk9&format=png&color=22C3E6"></a>
  </div>
 </p>
