@@ -1,34 +1,11 @@
-<svg width="100" height="20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <style type="text/css">
-      /* Estilos para el foreignObject y la imagen */
-      .badge-container {
-        width: 100px; /* Ajusta al ancho de la insignia */
-        height: 20px; /* Ajusta al alto de la insignia */
-        overflow: hidden; /* Asegura que no haya scrollbars */
-      }
-      .badge-image {
-        display: block; /* Para centrar y controlar mejor la imagen */
-        width: 100%;
-        height: 100%;
-        filter: grayscale(100%); /* Blanco y negro por defecto */
-        transition: filter 0.3s ease, transform 0.3s ease; /* Transición suave */
-        cursor: pointer; /* Indicar que es interactiva */
-        transform-origin: center center;
-      }
-      .badge-image:hover {
-        filter: grayscale(0%); /* Color al pasar el ratón */
-        transform: scale(1.05); /* Ligeramente más grande al pasar el ratón */
-        box-shadow: 0 0 10px rgba(44,232,244,0.6); /* Sombra azul (similar a neón) */
-      }
-    </style>
-  </defs>
-
-  <foreignObject x="0" y="0" width="100%" height="100%">
-    <body xmlns="http://www.w3.org/1999/xhtml">
-      <a href="https://www.linkedin.com/in/wilson-garcia-arboleda/" target="_blank" class="badge-container">
-        <img class="badge-image" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-    </body>
-  </foreignObject>
-</svg>
+<figure class="text-center"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img style="cursor: pointer; max-width: 100%; vertical-align: middle; font-size: 16px; background-color: rgb(255, 255, 255); height: auto !important;" src="https://img.itch.zone/aW1nLzIxODExNjg5LnBuZw==/original/Qxojja.png"><br></strong></figure>
+<p></p>
+<p class="text-center"><strong>Acerca de mi!</strong></p>
+<p></p>
+<p><br></p>
+<p class="text-justify">Soy un Desarrollador de Videojuegos con una sólida formación en soporte técnico y administración. Me apasiona crear experiencias interactivas mediante mecánicas innovadoras y tengo un buen dominio de Unity (C#), Unreal Engine (Blueprints) y Visual Studio. Cuento con habilidades tales como la comunicación efectiva , proactividad y resolución problemas, lo que me permite integrarme fácilmente y aportar valor en equipos multidisciplinarios. En este momento, estoy buscando aplicar mi experiencia y creatividad en una empresa donde pueda desarrollar juegos memorables y contribuir tanto al crecimiento de la compañía como a mi propio desarrollo profesional.
+</p>
+<p class="text-center"><strong>&nbsp;<a href="https://www.linkedin.com/in/wilson-garcia-arboleda/"><img src="https://img.itch.zone/aW1nLzIxNTQxNTkxLnBuZw==/original/twRaA9.png"></a>&nbsp;<a href="https://discord.com/users/wilon6942"><img src="https://img.itch.zone/aW1nLzIxNTQxNTY3LnBuZw==/original/SKKihd.png"></a>&nbsp;<a href="https://garciaw602.wixstudio.com/portafolio-wilsong"><img src="https://img.itch.zone/aW1nLzIxNTQxNTg0LnBuZw==/original/uMFD3R.png"></a>&nbsp;<a href="https://drive.google.com/file/d/1nELVEDVe3-aFMq4z05f8afFP8PVFLgFO/view?usp=sharing"><img src="https://img.itch.zone/aW1nLzIxNTQxNTY0LnBuZw==/original/ookBwF.png"></a></strong></p>
+<p class="text-center"><br></p>
+<p><br></p>
+<p><br></p>
