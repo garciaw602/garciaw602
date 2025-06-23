@@ -4,12 +4,12 @@
 
 <div style="text-align: center;">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola!&center=true&color=22c3e6" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola!&center=true&color=22c3e6" alt="Typing SVG"/>
     </a>
 </div>
 
 <p align="center">
-	<a target='_blank'><img src='https://i.postimg.cc/jqh3CLNx/1.png' border='0' alt='1'/>/></a>
+	<a target='_blank'><img src='https://i.postimg.cc/jqh3CLNx/1.png' border='0' alt='1'/></a>
     <div align="center" class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-arboleda/">
             <img src="https://img.icons8.com/?size=100&id=447&format=png&color=22C3E6"></a>
@@ -35,14 +35,4 @@
     </div>
 </p>
 
-<div align="center">
-    <iframe
-        width="560"
-        height="315"
-        src="https://www.youtube.com/embed/BdjAr9KmzA4?si=q46gx8P6haO9KEAH" title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen>
-    </iframe>
-</div>
+
