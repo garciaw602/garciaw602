@@ -1,7 +1,5 @@
 <div align="center">
-    <a href='https://postimages.org/' target='_blank'>
-        <img src='https://i.postimg.cc/CKwtDHXw/banner-git-removebg-preview.png' border='0' alt='banner-git-removebg-preview'/>
-    </a>
+    <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/50WjmB60/banner-git-removebg-preview-1.png' border='0' alt='banner-git-removebg-preview-1'/></a>
 </div>
 
 <div style="text-align: center;">
