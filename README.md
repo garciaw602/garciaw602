@@ -13,7 +13,8 @@
     <div align="center" class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-arboleda/">
             <img src="https://img.icons8.com/?size=100&id=447&format=png&color=22C3E6"></a>
-        <a style="margin-left: 10px;"><img src="itch-io-icon.svg" alt="Itch.io"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://wilsongarcia.itch.io/">
+            <img src="https://img.icons8.com/?size=100&id=b9_NzGK1H_Pe&format=png&color=22C3E6"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/142D1J9vabFLXXnU5Yms-ttjZX4HGM2H1/view?usp=sharing">
             <img src="https://img.icons8.com/?size=100&id=39372&format=png&color=22C3E6"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/wilon6942">
