@@ -22,7 +22,7 @@
   <br>
   <h3>Proyectos Destacados</h3>
   
-  <h4>🎮 [Elara: Survival Shooter](https://github.com/garciaw602/Elara)</h4>
+  <h4>🎮 [Elara: Survival Shooter]</h4>
   <p>
     Un shooter de supervivencia en un mundo infestado por zombies, desarrollado en Unity.
     <br>
