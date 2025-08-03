@@ -51,7 +51,7 @@
         <p>
           Un shooter de supervivencia en un mundo infestado por zombies, desarrollado en Unity.
           <br>
-          <a href="https://wilsongarcia.itch.io/elara" style="color:#22c3e6;">➡️ Juega el demo en itch.io</a>
+          <a href="https://wilsongarcia.itch.io/elara" style="color:#22c3e6;">➡️ Juega ahora en itch.io</a>
         </p>
       </td>
     </tr>
