@@ -32,7 +32,7 @@
     <tr>
       <td width="30%" align="center">
         <a href="https://github.com/garciaw602/Elara">
-          <img src="https://raw.githubusercontent.com/garciaw602/Elara/main/57240d56-b4ac-4cd7-9bff-02458eef027d.gif" alt="GIF del juego Elara" width="200" style="margin-bottom: 10px;">
+          <img src="https://github.com/garciaw602/Elara/blob/main/Elara%20gif.gif" alt="GIF del juego Elara" width="200" style="margin-bottom: 10px;">
         </a>
       </td>
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
