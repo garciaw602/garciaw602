@@ -1,7 +1,3 @@
-<div align="center">
-    <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/50WjmB60/banner-git-removebg-preview-1.png' border='0' alt='banner-git-removebg-preview-1'/></a>
-</div>
-
 <div style="text-align: center;">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola!&center=true&color=22c3e6" alt="Typing SVG"/>
@@ -22,6 +18,30 @@
     </div>
 </p>
 
+<div align="center">
+  <br>
+  <h3>Proyectos Destacados</h3>
+  <a href="https://github.com/garciaw602/Elara">
+    <img src="https://raw.githubusercontent.com/garciaw602/Elara/main/57240d56-b4ac-4cd7-9bff-02458eef027d.gif" alt="GIF del juego Elara" width="500" style="border-radius: 10px; margin-bottom: 10px;">
+  </a>
+  <br>
+  <h4>🎮 [Elara: Survival Shooter](https://github.com/garciaw602/Elara)</h4>
+  <p>
+    <b>Elara</b> es un shooter de supervivencia en un mundo infestado por zombies, desarrollado en Unity.
+    <br>
+    En este proyecto, fui responsable de programar mecánicas de jugador y diseño de sonido.
+    <br>
+    Puedes ver todos los detalles en el repositorio.
+  </p>
+  <a href="https://wilsongarcia.itch.io/elara" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=b9_NzGK1H_Pe&format=png&color=22C3E6" alt="Jugar en itch.io" width="30">
+    <br>
+    Juega el demo en itch.io
+  </a>
+  <br>
+  <br>
+</div>
+
 <p align="center">
 	<a target='_blank'><img src='https://i.postimg.cc/brMz1LMb/icons8-discord-50-Recuperado.png' border='0' alt='icons8-discord-50-Recuperado'/></a>
     <div align="center" class="icons-social" style="margin-left: 20px;">
@@ -34,5 +54,3 @@
 	    <a href="#"><img src="https://img.icons8.com/?size=100&id=03aYi0fY0D9X&format=png&color=22C3E6"></a>
     </div>
 </p>
-
-
