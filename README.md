@@ -45,12 +45,12 @@
     </tr>
     <tr>
       <td width="30%" align="center">
-        <a href="https://github.com/garciaw602/Pullulat-Spei">
-          <img src="URL_DEL_GIF_DE_PULLULAT_SPEI" alt="GIF del juego Pullulat-Spei" width="200" style="margin-bottom: 10px;">
+        <a href="https://github.com/garciaw602/pullulat-spei">
+          <img src="https://raw.githubusercontent.com/garciaw602/pullulat-spei/main/gif%20pullulat.gif" alt="GIF del juego Pullulat-Spei" width="200" style="margin-bottom: 10px;">
         </a>
       </td>
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-        <h4><a href="https://github.com/garciaw602/Pullulat-Spei" style="color:#22c3e6;">🌱 Pullulat-Spei: Plataformas 2.5D</a></h4>
+        <h4><a href="https://github.com/garciaw602/pullulat-spei" style="color:#22c3e6;">🌱 Pullulat-Spei: Plataformas 2.5D</a></h4>
         <p>
           Un juego de plataformas 2.5D en el que controlas a SPEI-01 en un mundo post-apocalíptico para encontrar y preservar las últimas plantas.
           <br>
@@ -61,7 +61,6 @@
     </table>
   <br>
 </div>
-
 
 
 
