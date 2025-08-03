@@ -5,7 +5,7 @@
 </div>
 
 
-<div align="center">
+<div align="center" style="color:#22c3e6;">
   <br>
   <h3 style="color:#22c3e6;">Acerca de Mí</h3>
   <p style="color:#22c3e6;">
