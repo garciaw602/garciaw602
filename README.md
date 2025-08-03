@@ -30,20 +30,44 @@
     </div>
 </p>
 
+
+
+
+
+
 <div align="center" style="color:#22c3e6;">
   <br>
   <h3>Proyectos Destacados</h3>
-  <a href="https://github.com/garciaw602/Elara">
-    <img src="https://raw.githubusercontent.com/garciaw602/Elara/main/57240d56-b4ac-4cd7-9bff-02458eef027d.gif" alt="GIF del juego Elara" width="200" style="margin-bottom: 10px;">
-  </a>
-  <h4><a href="https://github.com/garciaw602/Elara">🎮 Elara: Survival Shooter</a></h4>
-  <p>
-    Un shooter de supervivencia en un mundo infestado por zombies, desarrollado en Unity.
-    <br>
-    **<a href="https://wilsongarcia.itch.io/elara">Juega el demo en itch.io</a>**
-  </p>
+  
+  <table width="100%" align="center">
+    <tr>
+      <td width="30%" align="center">
+        <a href="https://github.com/garciaw602/Elara">
+          <img src="https://raw.githubusercontent.com/garciaw602/Elara/main/57240d56-b4ac-4cd7-9bff-02458eef027d.gif" alt="GIF del juego Elara" width="200" style="margin-bottom: 10px;">
+        </a>
+      </td>
+      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
+        <h4><a href="https://github.com/garciaw602/Elara" style="color:#22c3e6;">🎮 Elara: Survival Shooter</a></h4>
+        <p>
+          Un shooter de supervivencia en un mundo infestado por zombies, desarrollado en Unity.
+          <br>
+          <a href="https://wilsongarcia.itch.io/elara" style="color:#22c3e6;">➡️ Juega el demo en itch.io</a>
+        </p>
+      </td>
+    </tr>
+    </table>
   <br>
 </div>
+
+
+
+
+
+
+
+
+
+
 <p align="center">
 	<a target='_blank'><img src='https://i.postimg.cc/brMz1LMb/icons8-discord-50-Recuperado.png' border='0' alt='icons8-discord-50-Recuperado'/></a>
     <div align="center" class="icons-social" style="margin-left: 20px;">
