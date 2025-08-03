@@ -5,6 +5,14 @@
 </div>
 
 
+
+<div align="center">
+    <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/50WjmB60/banner-git-removebg-preview-1.png' border='0' alt='banner-git-removebg-preview-1'/></a>
+</div>
+
+
+
+
 <div align="center" style="color:#22c3e6;">
   <br>
   <h3 style="color:#22c3e6;">Acerca de Mí</h3>
