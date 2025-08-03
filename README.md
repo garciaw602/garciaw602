@@ -18,33 +18,29 @@
     </div>
 </p>
 
-
-
-<div align="center">
+<div align="center" style="color:#22c3e6;">
   <br>
   <h3>Proyectos Destacados</h3>
   <a href="https://github.com/garciaw602/Elara">
     <img src="https://raw.githubusercontent.com/garciaw602/Elara/main/57240d56-b4ac-4cd7-9bff-02458eef027d.gif" alt="GIF del juego Elara" width="200" style="margin-bottom: 10px;">
   </a>
-  <h4><a href="https://github.com/garciaw602/Elara" style="color:#22c3e6;">🎮 Elara: Survival Shooter</a></h4>
+  <h4><a href="https://github.com/garciaw602/Elara">🎮 Elara: Survival Shooter</a></h4>
   <p>
     Un shooter de supervivencia en un mundo infestado por zombies, desarrollado en Unity.
     <br>
-     **<a href="https://wilsongarcia.itch.io/elara">Juega el demo en itch.io</a>**
+    ➡️ **<a href="https://github.com/garciaw602/Elara">Ver detalles del proyecto</a>** | **<a href="https://wilsongarcia.itch.io/elara">Juega el demo en itch.io</a>**
   </p>
   <br>
-	
-
 </div>
 <p align="center">
 	<a target='_blank'><img src='https://i.postimg.cc/brMz1LMb/icons8-discord-50-Recuperado.png' border='0' alt='icons8-discord-50-Recuperado'/></a>
     <div align="center" class="icons-social" style="margin-left: 20px;">
-        <a href="#"><img src="https://img.icons8.com/?size=100&id=38240&format=png&color=22C3E6"></a>
-	    <a href="#"><img src="https://img.icons8.com/?size=100&id=26029&format=png&color=22C3E6"></a>
-	    <a href="#"><img src="https://img.icons8.com/?size=100&id=55205&format=png&color=22C3E6"></a>
-	    <a href="#"><img src="https://img.icons8.com/?size=100&id=121601&format=png&color=22C3E6"></a>
-	    <a href="#"><img src="https://img.icons8.com/?size=100&id=11113&format=png&color=22C3E6"></a>
-	    <a href="#"><img src="https://img.icons8.com/?size=100&id=11566&format=png&color=22C3E6"></a>
-	    <a href="#"><img src="https://img.icons8.com/?size=100&id=03aYi0fY0D9X&format=png&color=22C3E6"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.ly/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.ly/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.ly/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.ly/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.ly/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"></a>
     </div>
 </p>
