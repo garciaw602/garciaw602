@@ -39,15 +39,15 @@
         </p>
       </td>
       <td width="30%" align="center" style="vertical-align: top; padding-top: 20px;">
-        <h4 style="color:#22c3e6;">Estadísticas del Repositorio</h4>
-        <a href="https://github.com/garciaw602/Elara"><img src="https://img.shields.io/github/stars/garciaw602/Elara?style=social" alt="GitHub Stars" style="margin-right: 5px;"></a>
-        <a href="https://github.com/garciaw602/Elara"><img src="https://img.shields.io/github/forks/garciaw602/Elara?style=social" alt="GitHub Forks" style="margin-right: 5px;"></a>
+        <h4 style="color:#22c3e6;">Detalles del Repositorio</h4>
+        <a href="https://github.com/garciaw602/Elara">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=garciaw602&repo=Elara&hide_border=true&bg_color=transparent&text_color=22c3e6" alt="Tarjeta del Repositorio de Elara" width="250">
+        </a>
       </td>
     </tr>
     </table>
   <br>
 </div>
-
 
 
 
