@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td width="30%" align="center">
-        <a href="https://github.com/garciaw602/pullulat-spei">
+        <a href="https://github.com/Thingy25/GenJam1">
           <img src="https://raw.githubusercontent.com/garciaw602/pullulat-spei/main/gif%20pullulat.gif" alt="GIF del juego Pullulat-Spei" width="200" style="margin-bottom: 10px;">
         </a>
       </td>
