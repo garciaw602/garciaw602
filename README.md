@@ -60,7 +60,7 @@
         <p>
           Un juego de plataformas 2.5D en el que controlas a SPEI-01 en un mundo post-apocalíptico para encontrar y preservar las últimas plantas.
           <br>
-          <a href="https://wilsongarcia.itch.io/pullulat-spei" style="color:#22c3e6;">➡️ Juega el demo en itch.io</a>
+          <a href="https://wilsongarcia.itch.io/pullulat-spei" style="color:#22c3e6;">➡️ Juega ahora en itch.io</a>
         </p>
       </td>
     </tr>
@@ -80,7 +80,7 @@
         <p>
           Un juego de exploración y puzles desarrollado en una Game Jam. El protagonista debe reencontrarse con su alma en un universo en caos.
           <br>
-          <a href="https://thingy25.itch.io/synergy" style="color:#22c3e6;">➡️ Juega en itch.io</a>
+          <a href="https://thingy25.itch.io/synergy" style="color:#22c3e6;">➡️ Juega ahora en itch.io</a>
         </p>
       </td>
     </tr>
