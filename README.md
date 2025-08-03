@@ -3,7 +3,13 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola!&center=true&color=22c3e6" alt="Typing SVG"/>
     </a>
 </div>
-
+<div align="center" style="color:#22c3e6;">
+  <h3>Acerca de Mí</h3>
+  <p>
+    Soy un desarrollador de videojuegos y diseñador de sonido. 
+    <br>
+    Bienvenido a mi rincón digital donde muestro mis proyectos más recientes.
+  </p>
 <p align="center">
 	<a target='_blank'><img src='https://i.postimg.cc/jqh3CLNx/1.png' border='0' alt='1'/></a>
     <div align="center" class="icons-social" style="margin-left: 10px;">
