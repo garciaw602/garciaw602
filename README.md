@@ -66,23 +66,10 @@
     <tr>
       <td width="30%" align="center">
         <a href="https://thingy25.itch.io/synergy">
-          <img src="URL_DEL_GIF_DE_SYNERGY" alt="GIF del juego Synergy" width="200" style="margin-bottom: 10px;">
+          <img src="https://raw.githubusercontent.com/garciaw602/Elara/main/synergy%20gif.gif" alt="GIF del juego Synergy" width="200" style="margin-bottom: 10px;">
         </a>
       </td>
-      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-        <h4><a href="https://thingy25.itch.io/synergy" style="color:#22c3e6;">🌌 Synergy: Exploración y Puzles</a></h4>
-        <p>
-          Un juego de exploración y puzles desarrollado en una Game Jam. El protagonista debe reencontrarse con su alma en un universo en caos.
-          <br>
-          <a href="https://thingy25.itch.io/synergy" style="color:#22c3e6;">➡️ Juega en itch.io</a>
-        </p>
-      </td>
-    </tr>
-    </table>
-  <br>
-</div>
-
-
+      <td width="70%" align="left" style
 
 
 
