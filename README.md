@@ -48,7 +48,19 @@
         </p>
       </td>
     </tr>
-    </table>
+    <tr>
+      <td colspan="2">
+        <br>
+        </td>
+    </tr>
+
+    <tr>
+      <td colspan="2">
+        <br>
+        </td>
+    </tr>
+    
+  </table>
   <br>
 </div>
 
