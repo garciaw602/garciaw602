@@ -17,7 +17,7 @@
   <br>
   <h3 style="color:#22c3e6;">Acerca de Mí</h3>
   <p style="color:#22c3e6;">
-    Soy Wilson Garcia . Un desarrollador de videojuegos . 
+    Soy un desarrollador de videojuegos . 
     <br>
     Bienvenido a mi rincón digital donde muestro mis proyectos más recientes.
   </p>
