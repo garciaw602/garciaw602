@@ -15,7 +15,7 @@
             <img src="https://img.icons8.com/?size=100&id=447&format=png&color=22C3E6"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://wilsongarcia.itch.io/">
             <img src="https://img.icons8.com/?size=100&id=b9_NzGK1H_Pe&format=png&color=22C3E6"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/15A8iKrhz-NUc7YZ8f5J-PwSdwAf9CUao/view?usp=sharing">
+        <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1r4IyoIIND5E4V9rURQGpyaL_6_PgdU6Y/view?usp=sharing">
             <img src="https://img.icons8.com/?size=100&id=39372&format=png&color=22C3E6"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/wilon6942">
             <img src="https://img.icons8.com/?size=100&id=gxdxl0oMFoSA&format=png&color=22C3E6"></a>
