@@ -34,5 +34,12 @@
 <p align="center">
 	<a target='_blank'><img src='https://i.postimg.cc/brMz1LMb/icons8-discord-50-Recuperado.png' border='0' alt='icons8-discord-50-Recuperado'/></a>
     <div align="center" class="icons-social" style="margin-left: 20px;">
-        <a href="#"><img src="https://img.icons8.com/?size=100&id=38240&format=png&color=22C3E6"></a>
-	    <a href="#"><img src="
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"></a>
+    </div>
+</p>
