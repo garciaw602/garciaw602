@@ -31,6 +31,44 @@
 </p>
 
 
+<div align="center" style="color:#22c3e6;">
+  <br>
+  <h3>Proyectos Destacados</h3>
+  
+  <table width="100%" align="center">
+    <tr>
+      <td width="30%" align="center">
+        <a href="https://github.com/garciaw602/Elara">
+          <img src="https://raw.githubusercontent.com/garciaw602/Elara/main/57240d56-b4ac-4cd7-9bff-02458eef027d.gif" alt="GIF del juego Elara" width="200" style="margin-bottom: 10px;">
+        </a>
+      </td>
+      <td width="40%" align="left" style="vertical-align: top; padding-left: 20px;">
+        <h4><a href="https://github.com/garciaw602/Elara" style="color:#22c3e6;">🎮 Elara: Survival Shooter</a></h4>
+        <p>
+          Un shooter de supervivencia en un mundo infestado por zombies, desarrollado en Unity.
+          <br>
+          <a href="https://wilsongarcia.itch.io/elara" style="color:#22c3e6;">➡️ Juega el demo en itch.io</a>
+        </p>
+      </td>
+      <td width="30%" align="center" style="vertical-align: top;">
+        <h4 style="color:#22c3e6;">Estadísticas</h4>
+        <img src="https://github-readme-stats.vercel.app/api?username=garciaw602&show_icons=true&hide_border=true&bg_color=transparent&text_color=22c3e6" alt="Estadísticas de GitHub de Wilson" width="250">
+      </td>
+    </tr>
+    </table>
+  <br>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
