@@ -17,7 +17,7 @@
             <img src="https://img.icons8.com/?size=100&id=gxdxl0oMFoSA&format=png&color=22C3E6"></a>
     </div>
 </p>
-
+---
 <div align="center">
   <br>
   <h3>Proyectos Destacados</h3>
@@ -28,9 +28,10 @@
   <p>
     Un shooter de supervivencia en un mundo infestado por zombies, desarrollado en Unity.
     <br>
-    ➡️ **<a href="https://github.com/garciaw602/Elara">Ver detalles del proyecto</a>** | **<a href="https://wilsongarcia.itch.io/elara">Juega el demo en itch.io</a>**
+     **<a href="https://wilsongarcia.itch.io/elara">Juega el demo en itch.io</a>**
   </p>
   <br>
+---
 </div>
 <p align="center">
 	<a target='_blank'><img src='https://i.postimg.cc/brMz1LMb/icons8-discord-50-Recuperado.png' border='0' alt='icons8-discord-50-Recuperado'/></a>
