@@ -43,13 +43,12 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
         •
 Coordino la gestión de tareas del proyecto a través de la utilización de herramientas de gestión del tiempo y comunicación efectiva, aumentando la productividad del equipo.
 
-			•
-Lidero un equipo de 6 integrantes enfocando el desarrollo hacia una proyección social
+• Lidero un equipo de 6 integrantes enfocando el desarrollo hacia una proyección social
 
 •
 Implemento las mecánicas de juego utilizando C# y patrones de diseño como Singleton y Observer, optimizando su funcionalidad.
           <br>
-          En proceso desde noviembre 2025
+         / En proceso desde noviembre 2025
         </p>
       </td>
     </tr>	  
