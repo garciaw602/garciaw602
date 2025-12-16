@@ -16,6 +16,23 @@
   <h3>Proyectos Videojuegos</h3>
   
   <table width="100%" align="center">
+
+
+<tr>
+      <td width="30%" align="center">
+        <a href="https://github.com/garciaw602/Elara">
+          <img src="https://github.com/garciaw602/EnRuta-EndlessRunner/blob/main/EnRuta-EndlessRunner/Enruta.gif" alt="GIF del juego Enruta" width="200" style="margin-bottom: 10px;">
+        </a>
+      </td>
+      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
+        <h4><a href="https://github.com/garciaw602/Elara" style="color:#22c3e6;">🎮 Enruta: Endless Runner 3D</a></h4>
+        <p>
+         xxxx
+          <br>
+          En proceso desde noviembre 2025
+        </p>
+      </td>
+    </tr>	  
     <tr>
       <td width="30%" align="center">
         <a href="https://github.com/garciaw602/Elara">
@@ -92,10 +109,10 @@
         </a>
       </td>
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-        <h4><a href="https://github.com/garciaw602/Elara" style="color:#22c3e6;">🎮 Elara: Survival Shooter</a></h4>
+        <h4><a href="https://github.com/garciaw602/Elara" style="color:#22c3e6;">🎮 </a></h4>
         <p>
           <br>
-          <a href="https://wilsongarcia.itch.io/elara" style="color:#22c3e6;">➡️ Juega ahora en itch.io</a>
+          <a href="https://gestionriesgo.vercel.app/" style="color:#22c3e6;">➡️ Prueba la aplicacion en vercel</a>
         </p>
       </td>
     </tr>
