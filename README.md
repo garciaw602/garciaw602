@@ -7,7 +7,7 @@
 
 
 <div align="center">
-    <a href='https://postimages.org/' target='_blank'><img src='https://i.ibb.co/chq2qQcy/Banner.png' border='0' alt='banner-git-removebg-preview-1'/></a>
+    <a href='https://postimages.org/' target='_blank'><img src='https://i.ibb.co/BHHfwTCx/Gemini-Generated-Image-5ax4ry5ax4ry5ax4-1.pn' border='0' alt='banner-git-removebg-preview-1'/></a>
 </div>
 
 
