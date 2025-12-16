@@ -18,10 +18,6 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
 </div>
 
 
-
-
-
-
 <div align="center" style="color:#148c2e;">
   <br>
   <h3>Proyectos Videojuegos</h3>  
@@ -165,6 +161,8 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
 		Google AI Studio</p>
       </td>
     </tr> 
+
+	  
 	<tr>
 	      <td colspan="2">
         <hr style="border-top: 1px solid #22c3e6; margin: 20px 0;">
