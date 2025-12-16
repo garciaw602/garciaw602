@@ -151,30 +151,22 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
         <h4><a href="https://github.com/garciaw602/GestionRIesgo" style="color:#22c3e6;">Gestor de Riesgo (TRADING)</a></h4>
         <p>
-**Fase de Arquitectura y Configuración** </p>
-*Inicialicé y configuré el entorno de desarrollo utilizando Vite con React 19 y TypeScript, estableciendo una base sólida y tipada para prevenir errores en tiempo de ejecución. </p>
-*Estructuré la arquitectura de carpetas del proyecto de forma modular (hooks, components, pages, lib, types) para asegurar la escalabilidad y mantenibilidad del código. </p>
-*Definí las interfaces y tipos de datos globales en TypeScript (Trade, Block, TradingConfig) para modelar estrictamente las entidades del negocio financiero. </p>
-**Fase de Lógica de Negocio (Backend/Logic)** </p>
-*Desarrollé un Custom Hook complejo (useTradingLogic) para centralizar toda la matemática financiera, separando la lógica de cálculo de la interfaz visual. </p>
-*Algoritmicé la gestión de riesgo automatizada, programando las fórmulas para el cálculo de interés compuesto intrabloque y los sistemas de recuperación de pérdidas controlada. </p>
-*Implementé la lógica de "Bloques de Trading", creando condiciones automáticas que detectan y alertan cuando se alcanza el Target Profit (3.33%) o el Stop Loss (3%). </p>
-*Creé un sistema de persistencia de datos personalizado (useLocalStorage) para guardar, leer y sincronizar el historial de operaciones en el navegador del usuario en tiempo real. </p>
-**Fase de Diseño e Interfaz (UI/UX)** </p>
-*Diseñé y maqueté una interfaz Mobile-First utilizando Tailwind CSS, asegurando que la aplicación sea totalmente funcional tanto en celulares como en computadoras de escritorio. </p>
-*Construí una biblioteca de componentes de UI reutilizables (Botones, Tarjetas, Inputs, Modales) basándome en principios de diseño atómico y accesibilidad (usando primitivas de Radix UI). </p>
-*Implementé un sistema de temas dinámico (Dark Mode / Light Mode) utilizando variables CSS y gestión de estado para mejorar la experiencia visual del usuario. </p>
-*Integré la librería Recharts para transformar datos numéricos en visualizaciones gráficas interactivas (Curva de Equidad y Gráficos de Barras comparativos). </p>
-**Fase de Funcionalidades Avanzadas**  </p>
-
-*Arquitecté un sistema de internacionalización (i18n) propio mediante Context API, permitiendo el cambio dinámico de idioma entre Español e Inglés sin recargar la página. </p>
-*Desarrollé un generador de reportes capaz de filtrar datos por fechas (diario, semanal, mensual) y exportar la información a formatos legibles (simulación de Excel/PDF). </p>
-*Programé un calendario tipo "heatmap" para visualizar el historial mensual de rendimiento día a día. </p>
-*Añadí retroalimentación auditiva y visual (Alertas con sonido generado por la Web Audio API) para notificar al usuario sobre victorias o derrotas críticas. </p>
-**Fase de Pulido y Calidad** </p>
-
-*Redacté y configuré un tutorial interactivo paso a paso dentro de la app para guiar a los nuevos usuarios a través de las funcionalidades. </p>
-*Optimicé el rendimiento de la aplicación utilizando useMemo y useCallback para evitar renderizados innecesarios en cálculos matemáticos pesados. </p>
+**1. Conceptualización y Estrategia**
+Ideé una solución integral para resolver el problema de la gestión emocional y monetaria en el trading de opciones binarias.</p>
+Definí el propósito fundamental de la aplicación: actuar como un asistente de disciplina automatizado y no solo como una calculadora.</p>
+Estructuré la metodología de "Trading por Bloques" como núcleo del sistema para fragmentar las sesiones y asegurar la preservación del capital.</p></p>
+2. Ingeniería Financiera y Lógica</p>
+Diseñé el algoritmo matemático híbrido que alterna entre interés compuesto (para rachas ganadoras) y recuperación controlada (para pérdidas), eliminando la decisión emocional del usuario.</p>
+Establecí las constantes críticas de rentabilidad y riesgo (Meta del 3.33% y Stop Loss del 3%) basándome en análisis estadísticos de trading rentable.</p>
+Determiné las reglas de negocio para la finalización automática de bloques y el bloqueo de operaciones ante límites alcanzados.</p></p>
+3. Diseño de Producto (UX/UI)</p>
+Diseñé el flujo de trabajo del usuario (User Flow), asegurando que la interacción fuera intuitiva: Configurar -> Operar -> Analizar.</p>
+Especifiqué la disposición visual (Layout) de los elementos en pantalla, priorizando la información crítica como el "Stake Sugerido" y el "Capital Actual".</p>
+Definí los sistemas de retroalimentación visual y auditiva (alertas de victoria/derrota) para generar el impacto psicológico adecuado en el trader.</p></p>
+4. Dirección y Supervisión</p>
+Dirigí el ciclo de desarrollo del software, instruyendo sobre qué funcionalidades priorizar en cada etapa (MVP y mejoras).</p>
+Validé la precisión de los cálculos matemáticos realizados por el sistema para asegurar cero margen de error en el dinero real.</p>
+Iteré sobre el diseño final, solicitando ajustes específicos en la interfaz (como la ubicación de los contadores de bloques) para optimizar la usabilidad. </p></p>
 
 
 </div>			
