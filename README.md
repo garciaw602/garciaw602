@@ -50,9 +50,9 @@ Implemento las mecánicas de juego utilizando C# y patrones de diseño como Sing
           <br>
 		   </p>
       **(En proceso desde noviembre 2025)**</p>
-	  Unity Engine | C# | Visual Studio | Trello Figma | Meshy AI | Tripo AI
 		  <a href="https://drive.google.com/file/d/1l_lw7ovUjE287g7nlHWNlogRvmWd61_e/view" style="color:#148c2e;">➡️ GDD</a>
         </p>
+			  Unity Engine | C# | Visual Studio | Trello Figma | Meshy AI | Tripo AI
       </td>
     </tr>	  
     <tr>
