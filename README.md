@@ -151,6 +151,28 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
         <h4><a href="https://github.com/garciaw602/Elara" style="color:#22c3e6;">🎮Gestor de Riesgo </a></h4>
         <p>
+			Fase de Arquitectura y Configuración
+Inicialicé y configuré el entorno de desarrollo utilizando Vite con React 19 y TypeScript, estableciendo una base sólida y tipada para prevenir errores en tiempo de ejecución.
+Estructuré la arquitectura de carpetas del proyecto de forma modular (hooks, components, pages, lib, types) para asegurar la escalabilidad y mantenibilidad del código.
+Definí las interfaces y tipos de datos globales en TypeScript (Trade, Block, TradingConfig) para modelar estrictamente las entidades del negocio financiero.
+Fase de Lógica de Negocio (Backend/Logic)
+Desarrollé un Custom Hook complejo (useTradingLogic) para centralizar toda la matemática financiera, separando la lógica de cálculo de la interfaz visual.
+Algoritmicé la gestión de riesgo automatizada, programando las fórmulas para el cálculo de interés compuesto intrabloque y los sistemas de recuperación de pérdidas controlada.
+Implementé la lógica de "Bloques de Trading", creando condiciones automáticas que detectan y alertan cuando se alcanza el Target Profit (3.33%) o el Stop Loss (3%).
+Creé un sistema de persistencia de datos personalizado (useLocalStorage) para guardar, leer y sincronizar el historial de operaciones en el navegador del usuario en tiempo real.
+Fase de Diseño e Interfaz (UI/UX)
+Diseñé y maqueté una interfaz Mobile-First utilizando Tailwind CSS, asegurando que la aplicación sea totalmente funcional tanto en celulares como en computadoras de escritorio.
+Construí una biblioteca de componentes de UI reutilizables (Botones, Tarjetas, Inputs, Modales) basándome en principios de diseño atómico y accesibilidad (usando primitivas de Radix UI).
+Implementé un sistema de temas dinámico (Dark Mode / Light Mode) utilizando variables CSS y gestión de estado para mejorar la experiencia visual del usuario.
+Integré la librería Recharts para transformar datos numéricos en visualizaciones gráficas interactivas (Curva de Equidad y Gráficos de Barras comparativos).
+Fase de Funcionalidades Avanzadas
+Arquitecté un sistema de internacionalización (i18n) propio mediante Context API, permitiendo el cambio dinámico de idioma entre Español e Inglés sin recargar la página.
+Desarrollé un generador de reportes capaz de filtrar datos por fechas (diario, semanal, mensual) y exportar la información a formatos legibles (simulación de Excel/PDF).
+Programé un calendario tipo "heatmap" para visualizar el historial mensual de rendimiento día a día.
+Añadí retroalimentación auditiva y visual (Alertas con sonido generado por la Web Audio API) para notificar al usuario sobre victorias o derrotas críticas.
+Fase de Pulido y Calidad
+Redacté y configuré un tutorial interactivo paso a paso dentro de la app para guiar a los nuevos usuarios a través de las funcionalidades.
+Optimicé el rendimiento de la aplicación utilizando useMemo y useCallback para evitar renderizados innecesarios en cálculos matemáticos pesados.
           <br>
           <a href="https://gestionriesgo.vercel.app/" style="color:#22c3e6;">➡️ Prueba la aplicacion en vercel</a>
         </p>
