@@ -17,7 +17,6 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
   </p>
 </div>
 
-AAAAA
 
 
 
@@ -25,33 +24,26 @@ AAAAA
 
 <div align="center" style="color:#148c2e;">
   <br>
-  <h3>Proyectos Videojuegos</h3>
-  
+  <h3>Proyectos Videojuegos</h3>  
   <table width="100%" align="center">
-
-
-<tr>
-      <td width="30%" align="center">
-        <a href="https://github.com/garciaw602/EnRuta-EndlessRunner/tree/main">
-          <img src="https://github.com/garciaw602/EnRuta-EndlessRunner/blob/main/EnRuta-EndlessRunner/Enruta.gif" alt="GIF del juego Enruta" width="200" style="margin-bottom: 10px;">
-        </a>
-      </td>
-      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-        <h4><a href="https://github.com/garciaw602/EnRuta-EndlessRunner/tree/main" style="color:#22c3e6;">🎮 Enruta: Endless Runner 3D</a></h4>
-        <p>
-        •
+		<tr>
+		      <td width="30%" align="center">
+		        	<a href="https://github.com/garciaw602/EnRuta-EndlessRunner/tree/main">
+		          		<img src="https://github.com/garciaw602/EnRuta-EndlessRunner/blob/main/EnRuta-EndlessRunner/Enruta.gif" alt="GIF del juego Enruta" width="200" style="margin-bottom: 10px;">
+		       		 </a>
+		      </td>
+		      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
+		       		 <h4><a href="https://github.com/garciaw602/EnRuta-EndlessRunner/tree/main" style="color:#22c3e6;">🎮 Enruta: Endless Runner 3D</a></h4> <p>
+						 •
 Coordino la gestión de tareas del proyecto a través de la utilización de herramientas de gestión del tiempo y comunicación efectiva, aumentando la productividad del equipo.
 
 • Lidero un equipo de 6 integrantes enfocando el desarrollo hacia una proyección social
 
 •
-Implemento las mecánicas de juego utilizando C# y patrones de diseño como Singleton y Observer, optimizando su funcionalidad.
-          <br>
-		   </p>
+Implemento las mecánicas de juego utilizando C# y patrones de diseño como Singleton y Observer, optimizando su funcionalidad.</p> </p> </p>
+<br>		   
       **(En proceso desde noviembre 2025)**</p>
 		  <a href="https://drive.google.com/file/d/1l_lw7ovUjE287g7nlHWNlogRvmWd61_e/view" style="color:#148c2e;">➡️ GDD</a>
-        </p>
-		 </p>
 			  Unity Engine | C# | Visual Studio | Trello Figma | Meshy AI | Tripo AI
       </td>
     </tr>	  
@@ -109,7 +101,7 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
     <tr>
       <td colspan="2">
         <hr style="border-top: 1px solid #22c3e6; margin: 20px 0;">
-      </td>x
+      </td>
     </tr>
     <tr>
       <td width="30%" align="center">
@@ -175,7 +167,8 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
 		Google AI Studio</p>
       </td>
     </tr>
-    <tr>
+  AAA
+	<tr>
       <td colspan="2">
         <hr style="border-top: 1px solid #22c3e6; margin: 20px 0;">
       </td>
