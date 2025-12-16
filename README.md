@@ -166,9 +166,9 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
         </p></p>
 		Google AI Studio</p>
       </td>
-    </tr>
-  AAA
+    </tr> 
 	<tr>
+	 AAA
       <td colspan="2">
         <hr style="border-top: 1px solid #22c3e6; margin: 20px 0;">
       </td>
