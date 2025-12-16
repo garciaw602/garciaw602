@@ -20,7 +20,7 @@
 
 <tr>
       <td width="30%" align="center">
-        <a href="https://github.com/garciaw602/Elara">
+        <a href="https://github.com/garciaw602/EnRuta-EndlessRunner/tree/main">
           <img src="https://github.com/garciaw602/EnRuta-EndlessRunner/blob/main/EnRuta-EndlessRunner/Enruta.gif" alt="GIF del juego Enruta" width="200" style="margin-bottom: 10px;">
         </a>
       </td>
