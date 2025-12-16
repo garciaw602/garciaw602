@@ -180,7 +180,8 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
 </div>			
           <br>
           <a href="https://gestionriesgo.vercel.app/" style="color:#22c3e6;">➡️ Prueba la aplicacion en vercel</a>
-        </p>
+        </p></p>
+		Google AI Studio</p>
       </td>
     </tr>
     <tr>
