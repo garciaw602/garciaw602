@@ -25,7 +25,7 @@
         </a>
       </td>
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-        <h4><a href="https://github.com/garciaw602/Elara" style="color:#22c3e6;">🎮 Enruta: Endless Runner 3D</a></h4>
+        <h4><a href="https://github.com/garciaw602/EnRuta-EndlessRunner/tree/main" style="color:#22c3e6;">🎮 Enruta: Endless Runner 3D</a></h4>
         <p>
          xxxx
           <br>
