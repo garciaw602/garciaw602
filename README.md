@@ -48,7 +48,7 @@ Coordino la gestión de tareas del proyecto a través de la utilización de herr
 •
 Implemento las mecánicas de juego utilizando C# y patrones de diseño como Singleton y Observer, optimizando su funcionalidad.
           <br>
-       <a   (En proceso desde noviembre 2025)</a>
+       <a(En proceso desde noviembre 2025)</a>
 		  <a href="https://wilsongarcia.itch.io/elara" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
         </p>
       </td>
