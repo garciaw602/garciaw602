@@ -114,12 +114,12 @@
   <table width="100%" align="center">
     <tr>
       <td width="30%" align="center">
-        <a href="https://github.com/garciaw602/Elara">
-          <img src="https://github.com/garciaw602/Elara/blob/main/Elara%20gif.gif" alt="GIF del juego Elara" width="200" style="margin-bottom: 10px;">
+        <a href="https://github.com/garciaw602/GestionRIesgo">
+          <img src="https://github.com/garciaw602/GestionRIesgo/blob/main/GestiondeRiesgo.gif" alt="GIF del juego Elara" width="200" style="margin-bottom: 10px;">
         </a>
       </td>
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-        <h4><a href="https://github.com/garciaw602/Elara" style="color:#22c3e6;">🎮 </a></h4>
+        <h4><a href="https://github.com/garciaw602/Elara" style="color:#22c3e6;">🎮Gestor de Riesgo </a></h4>
         <p>
           <br>
           <a href="https://gestionriesgo.vercel.app/" style="color:#22c3e6;">➡️ Prueba la aplicacion en vercel</a>
