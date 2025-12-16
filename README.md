@@ -48,15 +48,15 @@ Coordino la gestión de tareas del proyecto a través de la utilización de herr
 •
 Implemento las mecánicas de juego utilizando C# y patrones de diseño como Singleton y Observer, optimizando su funcionalidad.
           <br>
-       <a(En proceso desde noviembre 2025)</a>
-		  <a href="https://wilsongarcia.itch.io/elara" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
+       (En proceso desde noviembre 2025)
+		  <a href="https://drive.google.com/file/d/1l_lw7ovUjE287g7nlHWNlogRvmWd61_e/view" style="color:#148c2e;">➡️ GDD</a>
         </p>
       </td>
     </tr>	  
     <tr>
       <td width="30%" align="center">
-        <a href="https://github.com/garciaw602/Elara">
-          <img src="https://github.com/garciaw602/Elara/blob/main/Elara%20gif.gif" alt="GIF del juego Elara" width="200" style="margin-bottom: 10px;">
+        <a href="https://drive.google.com/file/d/1l_lw7ovUjE287g7nlHWNlogRvmWd61_e/view">
+          <img src="https://github.com/garciaw602/EnRuta-EndlessRunner/blob/main/EnRuta-EndlessRunner/Enruta.gif" alt="GDD" width="200" style="margin-bottom: 10px;">
         </a>
       </td>
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
