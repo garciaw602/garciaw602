@@ -90,7 +90,14 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
         <h4><a href="https://github.com/garciaw602/pullulat-spei" style="color:#148c2e;">🌱 Pullulat-Spei: Plataformas 2.5D</a></h4>
         <p>
-          Un juego de plataformas 2.5D en el que controlas a SPEI-01 en un mundo post-apocalíptico para encontrar y preservar las últimas plantas.
+          #### **Sistemas de Jugabilidad y Entorno**
+
+- **Movimiento del Jugador:** Implementé la mecánica de movimiento del jugador, asegurando una jugabilidad fluida.
+- **Interacción de Objetos:** Implementé la lógica para interactuar con objetos en el entorno, como la mecánica de "agarrar cubos".
+- **Habilidades y Movimiento:** Desarrollé los elementos de impulso (resortes) para que el jugador alcance nuevas alturas, y programé las mecánicas de supervivencia basadas en la gestión de la "batería" o energía limitada.
+- **Gestión de Amenazas:** Creé los sistemas para generar amenazas ambientales de forma dinámica, como barriles rodantes, y la lógica detrás de las zonas de peligro (vacío, zonas tóxicas).
+- **Programación Audiovisual:** Me encargué de la programación de los sistemas de audio global y del jugador, así como de la activación de efectos de partículas para una experiencia visual envolvente.
+- **Cámara y Fondos:** Implementé el sistema de seguimiento de cámara y, de manera crucial, desarrollé el efecto de paralaje para los fondos, añadiendo una profunda sensación de escala y dinamismo.
           <br>
           <a href="https://wilsongarcia.itch.io/pullulat-spei" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
         </p>
