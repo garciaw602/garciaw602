@@ -48,7 +48,7 @@ Coordino la gestión de tareas del proyecto a través de la utilización de herr
 •
 Implemento las mecánicas de juego utilizando C# y patrones de diseño como Singleton y Observer, optimizando su funcionalidad.
           <br>
-         / En proceso desde noviembre 2025
+         (En proceso desde noviembre 2025)
         </p>
       </td>
     </tr>	  
