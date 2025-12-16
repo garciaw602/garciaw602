@@ -85,6 +85,80 @@ Modelado y Animaciones: Utilicé herramientas de IA para asistir en la creación
 
 
 
+
+<div align="center" style="color:#22c3e6;">
+  <br>
+  <h3>Otros Proyectos</h3>
+  
+  <table width="100%" align="center">
+    <tr>
+      <td width="30%" align="center">
+        <a href="https://github.com/garciaw602/Elara">
+          <img src="https://github.com/garciaw602/Elara/blob/main/Elara%20gif.gif" alt="GIF del juego Elara" width="200" style="margin-bottom: 10px;">
+        </a>
+      </td>
+      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
+        <h4><a href="https://github.com/garciaw602/Elara" style="color:#22c3e6;">🎮 Elara: Survival Shooter</a></h4>
+        <p>
+          <br>
+          <a href="https://wilsongarcia.itch.io/elara" style="color:#22c3e6;">➡️ Juega ahora en itch.io</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <hr style="border-top: 1px solid #22c3e6; margin: 20px 0;">
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="center">
+        <a href="https://github.com/Thingy25/GenJam1">
+          <img src="https://raw.githubusercontent.com/garciaw602/pullulat-spei/main/gif%20pullulat.gif" alt="GIF del juego Pullulat-Spei" width="200" style="margin-bottom: 10px;">
+        </a>
+      </td>
+      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center" style="color:#22c3e6;">
   <br>
   <h3 style="color:#22c3e6;">Acerca de Mí</h3>
