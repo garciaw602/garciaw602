@@ -165,7 +165,7 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
 *Construí una biblioteca de componentes de UI reutilizables (Botones, Tarjetas, Inputs, Modales) basándome en principios de diseño atómico y accesibilidad (usando primitivas de Radix UI). </p>
 *Implementé un sistema de temas dinámico (Dark Mode / Light Mode) utilizando variables CSS y gestión de estado para mejorar la experiencia visual del usuario. </p>
 *Integré la librería Recharts para transformar datos numéricos en visualizaciones gráficas interactivas (Curva de Equidad y Gráficos de Barras comparativos). </p>
-**Fase de Funcionalidades Avanzadas** </p>
+**Fase de Funcionalidades Avanzadas**  </p>
 
 *Arquitecté un sistema de internacionalización (i18n) propio mediante Context API, permitiendo el cambio dinámico de idioma entre Español e Inglés sin recargar la página. </p>
 *Desarrollé un generador de reportes capaz de filtrar datos por fechas (diario, semanal, mensual) y exportar la información a formatos legibles (simulación de Excel/PDF). </p>
