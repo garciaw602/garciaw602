@@ -10,8 +10,8 @@
 
 <div align="center" style="color:#22c3e6;">
   <br>
-  <h3 style="color:#22c3e6;">!HOLA! </h3>
-  <p style="color:#22c3e6;">Soy ingeniero en sistemas
+  <h3 style="color:#148c2e;">!HOLA! </h3>
+  <p style="color:#148c2e;">Soy ingeniero en sistemas
         <br>
      con experiencia en desarrollador de videojuegos, aplicaciones y soporte tecnológico empresarial.
 	  
@@ -24,7 +24,7 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
 
 
 
-<div align="center" style="color:#22c3e6;">
+<div align="center" style="color:#148c2e;">
   <br>
   <h3>Proyectos Videojuegos</h3>
   
@@ -110,7 +110,7 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
 
 
 
-<div align="center" style="color:#22c3e6;">
+<div align="center" style="color:#148c2e;">
   <br>
   <h3>Otros Proyectos</h3>
   
