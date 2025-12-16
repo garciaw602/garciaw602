@@ -52,6 +52,7 @@ Implemento las mecánicas de juego utilizando C# y patrones de diseño como Sing
       **(En proceso desde noviembre 2025)**</p>
 		  <a href="https://drive.google.com/file/d/1l_lw7ovUjE287g7nlHWNlogRvmWd61_e/view" style="color:#148c2e;">➡️ GDD</a>
         </p>
+		 </p>
 			  Unity Engine | C# | Visual Studio | Trello Figma | Meshy AI | Tripo AI
       </td>
     </tr>	  
@@ -75,6 +76,7 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
           <br>
           <a href="https://wilsongarcia.itch.io/elara" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
         </p>
+		Unity Engine | C# | Visual Studio | Trello Figma  | Tripo AI
       </td>
     </tr>
     <tr>
@@ -122,6 +124,7 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
           <br>
           <a href="https://thingy25.itch.io/synergy" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
         </p>
+		  Unity Engine | C# | Visual Studio | Trello Figma | Meshy AI | Tripo AI
       </td>
     </tr>
     </table>
