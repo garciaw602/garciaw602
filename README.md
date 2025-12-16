@@ -168,12 +168,12 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
       </td>
     </tr> 
 	<tr>
-	 AAA
-      <td colspan="2">
+	      <td colspan="2">
         <hr style="border-top: 1px solid #22c3e6; margin: 20px 0;">
       </td>
     </tr>
     <tr>
+		 AAA
       <td width="30%" align="center">
         <a href="https://github.com/Thingy25/GenJam1">
           <img src="https://raw.githubusercontent.com/garciaw602/pullulat-spei/main/gif%20pullulat.gif" alt="GIF del juego Pullulat-Spei" width="200" style="margin-bottom: 10px;">
