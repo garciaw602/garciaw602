@@ -57,7 +57,7 @@ Implemento las mecánicas de juego utilizando C# y patrones de diseño como Sing
     <tr>
       <td width="30%" align="center">
         <a href="https://drive.google.com/file/d/1l_lw7ovUjE287g7nlHWNlogRvmWd61_e/view">
-          <img src="https://github.com/garciaw602/EnRuta-EndlessRunner/blob/main/EnRuta-EndlessRunner/Enruta.gif" alt="GDD" width="200" style="margin-bottom: 10px;">
+          <img src="https://github.com/garciaw602/Elara/blob/main/Elara%20gif.gif" alt="GDD" width="200" style="margin-bottom: 10px;">
         </a>
       </td>
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
