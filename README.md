@@ -90,7 +90,7 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
         <h4><a href="https://github.com/garciaw602/pullulat-spei" style="color:#148c2e;">🌱 Pullulat-Spei: Plataformas 2.5D</a></h4>
         <p>
-          #### **Sistemas de Jugabilidad y Entorno**
+         **Sistemas de Jugabilidad y Entorno**
 
 - **Movimiento del Jugador:** Implementé la mecánica de movimiento del jugador, asegurando una jugabilidad fluida.
 - **Interacción de Objetos:** Implementé la lógica para interactuar con objetos en el entorno, como la mecánica de "agarrar cubos".
