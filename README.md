@@ -29,7 +29,13 @@
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
         <h4><a href="https://github.com/garciaw602/Elara" style="color:#22c3e6;">🎮 Elara: Survival Shooter</a></h4>
         <p>
-         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Un shooter de supervivencia en un mundo infestado por zombies, desarrollado en Unity.
+         Como desarrollador en ELARA, fui responsable de programar las mecánicas de juego principales. Mis principales responsabilidades incluyeron:
+
+Sistemas de Jugabilidad
+Movimiento del Jugador: Implementé el sistema de movimiento fluido en primera persona, el salto, el sprint y la interacción con el entorno para una experiencia inmersiva.
+Disparo de Armas: Desarrollé la lógica de disparo, retroceso y recarga para las distintas armas, asegurando una sensación de combate realista y satisfactoria.
+Efectos Visuales: Programé los efectos de partículas y eventos visuales para aumentar el impacto del juego, incluyendo la sangre al morir y la explosión de gas de barriles, que sirven como elementos estratégicos en el combate.
+Modelado y Animaciones: Utilicé herramientas de IA para asistir en la creación de modelos y animaciones, agilizando el proceso de desarrollo y permitiendo más iteraciones en los modelos de zombis.
           <br>
           <a href="https://wilsongarcia.itch.io/elara" style="color:#22c3e6;">➡️ Juega ahora en itch.io</a>
         </p>
