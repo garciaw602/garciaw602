@@ -11,9 +11,9 @@
 <div align="center" style="color:#22c3e6;">
   <br>
   <h3 style="color:#22c3e6;">HOLA SOY WILSON GARCIA </h3>
-  <p style="color:#22c3e6;">
+  <p style="color:#22c3e6;">Ingeniero en sistemas
         <br>
-    Ingeniero en sistemas con experiencia en desarrollador de videojuegos, aplicaciones y soporte tecnológico empresarial.
+     con experiencia en desarrollador de videojuegos, aplicaciones y soporte tecnológico empresarial.
 Me apasiona aprovechar la tecnología como herramienta para lograr fines. Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación de espacios inmersivos y sobre todo las mecánicas para poder disfrutar de estos espacios.
 .
   </p>
