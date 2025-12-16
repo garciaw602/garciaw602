@@ -149,7 +149,7 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
         </a>
       </td>
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-        <h4><a href="https://github.com/garciaw602/Elara" style="color:#22c3e6;">Gestor de Riesgo (TRADING)</a></h4>
+        <h4><a href="https://github.com/garciaw602/GestionRIesgo" style="color:#22c3e6;">Gestor de Riesgo (TRADING)</a></h4>
         <p>
 **Fase de Arquitectura y Configuración** </p>
 *Inicialicé y configuré el entorno de desarrollo utilizando Vite con React 19 y TypeScript, estableciendo una base sólida y tipada para prevenir errores en tiempo de ejecución. </p>
