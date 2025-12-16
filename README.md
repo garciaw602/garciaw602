@@ -142,7 +142,11 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
         <h4><a href="https://github.com/garciaw602/GestionRIesgo" style="color:#22c3e6;">Gestor de Riesgo (TRADING)</a></h4>
         <p>
-1. Conceptualización y Estrategia</p>
+</div>	
+<br>
+          <a href="https://gestionriesgo.vercel.app/" style="color:#22c3e6;">➡️ Prueba la aplicacion en vercel</a>
+        </p></p>
+	  1. Conceptualización y Estrategia</p>
 *Ideé una solución integral para resolver el problema de la gestión emocional y monetaria en el trading de opciones binarias.</p>
 *Definí el propósito fundamental de la aplicación: actuar como un asistente de disciplina automatizado y no solo como una calculadora.</p>
 *Estructuré la metodología de "Trading por Bloques" como núcleo del sistema para fragmentar las sesiones y asegurar la preservación del capital.</p></p>
@@ -158,12 +162,6 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
 *Dirigí el ciclo de desarrollo del software, instruyendo sobre qué funcionalidades priorizar en cada etapa (MVP y mejoras).</p>
 *Validé la precisión de los cálculos matemáticos realizados por el sistema para asegurar cero margen de error en el dinero real.</p>
 *Iteré sobre el diseño final, solicitando ajustes específicos en la interfaz (como la ubicación de los contadores de bloques) para optimizar la usabilidad. </p></p>
-
-
-</div>	
-<br>
-          <a href="https://gestionriesgo.vercel.app/" style="color:#22c3e6;">➡️ Prueba la aplicacion en vercel</a>
-        </p></p>
 		Google AI Studio</p>
       </td>
     </tr> 
