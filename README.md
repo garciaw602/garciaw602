@@ -10,8 +10,8 @@
 
 <div align="center" style="color:#22c3e6;">
   <br>
-  <h3 style="color:#22c3e6;">HOLA SOY WILSON GARCIA </h3>
-  <p style="color:#22c3e6;">Ingeniero en sistemas
+  <h3 style="color:#22c3e6;">!HOLA! </h3>
+  <p style="color:#22c3e6;">Soy ingeniero en sistemas
         <br>
      con experiencia en desarrollador de videojuegos, aplicaciones y soporte tecnológico empresarial.
 	  
