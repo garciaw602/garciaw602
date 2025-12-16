@@ -40,7 +40,12 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
         <h4><a href="https://github.com/garciaw602/EnRuta-EndlessRunner/tree/main" style="color:#22c3e6;">🎮 Enruta: Endless Runner 3D</a></h4>
         <p>
-         xxxx
+        •
+Coordino la gestión de tareas del proyecto a través de la utilización de herramientas de gestión del tiempo y comunicación efectiva, aumentando la productividad del equipo.
+•
+Lidero un equipo de 6 integrantes enfocando el desarrollo hacia una proyección social
+•
+Implemento las mecánicas de juego utilizando C# y patrones de diseño como Singleton y Observer, optimizando su funcionalidad.
           <br>
           En proceso desde noviembre 2025
         </p>
