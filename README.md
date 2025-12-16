@@ -169,7 +169,32 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
 *Iteré sobre el diseño final, solicitando ajustes específicos en la interfaz (como la ubicación de los contadores de bloques) para optimizar la usabilidad. </p></p>
 
 
-</div>			
+</div>		
+
+Fase 1: Concepción y Lógica de Negocio
+Ideé el concepto central de una aplicación web (SPA) para la gestión digital de un taller de pintura de motos, eliminando el uso de papel.
+Definí el flujo de trabajo secuencial operativo del taller, estableciendo las etapas críticas: Pre-alistamiento, Alistamiento, Pintura, Pulido, Despachos y Entregas.
+Estructuré el modelo de datos relacional para gestionar Órdenes, Clientes, Modelos de Motos y, crucialmente, el control granular a nivel de Pieza individual (ítems).
+Determiné la lógica de estados de las piezas (Pendiente, En Proceso, En Revisión, Finalizada) y cómo estas deben transicionar entre las diferentes áreas del taller.
+Establecí las reglas de negocio para los tipos de acabado (Brillante vs. Mate), dictando que las piezas mate saltan el proceso de pulido para optimizar el flujo.
+Fase 2: Gestión de Usuarios y Seguridad
+Diseñé una jerarquía de roles y permisos (Admin, Recepción, Líder de Área, Operario, Mensajero) para asegurar que cada empleado vea solo lo relevante para su función.
+Configuré la lógica de asignación de tareas, permitiendo que los líderes distribuyan el trabajo a operarios específicos y los operarios solo vean sus propias tareas.
+Solicité la implementación de un sistema de autenticación seguro, incluyendo validación de credenciales y un flujo de recuperación de contraseña funcional.
+Fase 3: Interfaz y Experiencia de Usuario (UI/UX)
+Requerí una interfaz moderna y responsiva utilizando Tailwind CSS, asegurando que la aplicación funcione tanto en computadoras de escritorio (recepción) como en móviles (operarios).
+Especifiqué la necesidad de un "Tablero de Control" (Dashboard) visual para administradores, con métricas clave y gráficos de rendimiento en tiempo real.
+Instruí la creación de vistas modulares y específicas para cada área (ej. Vista de Líder vs. Vista de Operario), facilitando la usabilidad operativa.
+Solicité la inclusión de un modo oscuro/claro para adaptar la visualización a las condiciones de luz del taller.
+Validé y corregí la disposición de elementos visuales, como la ubicación del enlace "¿Olvidaste tu contraseña?" en el login para mejorar la UX.
+Fase 4: Integración de Tecnología Avanzada (IA)
+Integré la API de Google Gemini para potenciar la toma de decisiones, solicitando reportes diarios automáticos basados en el estado actual de las órdenes.
+Ideé la funcionalidad de "Asistente de Ruta" para mensajeros, utilizando IA para optimizar logísticamente las entregas locales.
+Implementé (a nivel de requerimiento) la conversión de texto a voz (TTS) para los briefings operativos, permitiendo a los trabajadores escuchar instrucciones sin soltar sus herramientas.
+Fase 5: Mantenimiento y Calidad
+Identifiqué errores críticos durante las pruebas, como fallos en la carga inicial de la aplicación o problemas de tipado en los roles de usuario.
+Solicité la corrección de bugs específicos en el servicio de almacenamiento (storageService) y en la lógica de permisos de la interfaz.
+Refiné los datos semilla (seed data) para asegurar que la aplicación inicie con información de prueba realista (clientes, motos, empleados) para demostraciones
           <br>
           <a href="https://gestionriesgo.vercel.app/" style="color:#22c3e6;">➡️ Prueba la aplicacion en vercel</a>
         </p></p>
