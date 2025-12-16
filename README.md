@@ -75,7 +75,7 @@ integré sonidos (SFX). Aportando una mayor inmersión al juego.</P>
 Creé mediante promt en inteligencia artificial todos los zombies y otros asset para la ambientación el juego.</P>
           <br>
           <a href="https://wilsongarcia.itch.io/elara" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
-        </p>
+        </p> </p>
 		Unity Engine | C# | Visual Studio | Trello Figma  | Tripo AI
       </td>
     </tr>
@@ -103,7 +103,8 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
 - **Cámara y Fondos:** Implementé el sistema de seguimiento de cámara y, de manera crucial, desarrollé el efecto de paralaje para los fondos, añadiendo una profunda sensación de escala y dinamismo.
           <br>
           <a href="https://wilsongarcia.itch.io/pullulat-spei" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
-        </p>
+        </p> </p>
+		Unity Engine | C# | Visual Studio | Trello Figma | Meshy AI | Tripo AI
       </td>
     </tr>
     <tr>
@@ -123,8 +124,8 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
           Un juego de exploración y puzles desarrollado en una Game Jam. El protagonista debe reencontrarse con su alma en un universo en caos.
           <br>
           <a href="https://thingy25.itch.io/synergy" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
-        </p>
-		  Unity Engine | C# | Visual Studio | Trello Figma | Meshy AI | Tripo AI
+        </p> </p>
+		  Unity Engine | C# | Visual Studio 
       </td>
     </tr>
     </table>
