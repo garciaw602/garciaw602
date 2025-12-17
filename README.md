@@ -160,6 +160,7 @@ Ingeniería Financiera: Ideé el núcleo del sistema basado en "Gestión por Blo
         </a>
       </td>
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
+	   <h4><a href="https://i.ibb.co/81McmY7/Moto-Paint-Pro.gif" style="color:#22c3e6;">Gestor de Riesgo (TRADING)</a></h4>
 • Lógica de Negocio: Ideé el flujo operativo secuencial (Pre-alistamiento a Entrega) con control granular por pieza. Definí reglas automáticas de estados y optimización de procesos según el acabado (Mate vs. Brillante).</p>
 • Arquitectura y Seguridad: Estructuré un sistema de roles y permisos (RBAC) para Administración, Recepción, Operarios y Mensajería, garantizando que cada usuario acceda solo a la información crítica para su labor.</p>
 • Diseño UI/UX: Definí los requerimientos de una interfaz responsiva con Tailwind CSS, optimizada para el uso móvil de los operarios y un Dashboard con métricas en tiempo real para la gestión administrativa.</p>
