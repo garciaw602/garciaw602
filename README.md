@@ -142,7 +142,7 @@ Ingeniería Financiera: Ideé el núcleo del sistema basado en "Gestión por Blo
 
 • Análisis y Persistencia: Conceptualicé herramientas de journaling y análisis estadístico, incluyendo un "Heatmap" de consistencia mensual y curvas de equidad mediante Recharts. La persistencia se maneja localmente para garantizar la privacidad total de los datos financieros.
 
-• Validación Técnica: Superviso la precisión de los algoritmos de cálculo para asegurar cero margen de error en operaciones con capital real, iterando constantemente sobre la usabilidad del Dashboard. </p></p>
+• Validación Técnica: supervisé la precisión de los algoritmos de cálculo para asegurar cero margen de error en operaciones con capital real, iterando constantemente sobre la usabilidad del Dashboard. </p></p>
           <a href="https://gestionriesgo.vercel.app/" style="color:#22c3e6;">➡️ Prueba la aplicacion en vercel</a>
         </p></p>	 
 		Google AI Studio</p>
@@ -156,11 +156,16 @@ Ingeniería Financiera: Ideé el núcleo del sistema basado en "Gestión por Blo
     <tr>
 		     <td width="30%" align="center">
         <a href="https://github.com/Thingy25/GenJam1">
-          <img src="https://raw.githubusercontent.com/garciaw602/pullulat-spei/main/gif%20pullulat.gif" alt="GIF del juego Pullulat-Spei" width="200" style="margin-bottom: 10px;">
+          <img src="https://i.ibb.co/81McmY7/Moto-Paint-Pro.gif" alt="GIF MotopaintPro" width="200" style="margin-bottom: 10px;">
         </a>
       </td>
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-		   AAA
+• Lógica de Negocio: Ideé el flujo operativo secuencial (Pre-alistamiento a Entrega) con control granular por pieza. Definí reglas automáticas de estados y optimización de procesos según el acabado (Mate vs. Brillante).
+• Arquitectura y Seguridad: Estructuré un sistema de roles y permisos (RBAC) para Administración, Recepción, Operarios y Mensajería, garantizando que cada usuario acceda solo a la información crítica para su labor.
+• Diseño UI/UX: Definí los requerimientos de una interfaz responsiva con Tailwind CSS, optimizada para el uso móvil de los operarios y un Dashboard con métricas en tiempo real para la gestión administrativa.
+• Integración de IA: Implementé la API de Google Gemini para reportes de productividad automáticos y optimización logística de rutas. Incorporé Text-to-Speech (TTS) para briefings operativos manos libres.
+
+• Control de Calidad: Supervisé la corrección de errores en lógica de permisos y servicios de almacenamiento, además de estructurar datos semilla realistas para validación y demos.
 </div>
     </table>
 
