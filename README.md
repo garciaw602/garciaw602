@@ -160,12 +160,14 @@ Ingeniería Financiera: Ideé el núcleo del sistema basado en "Gestión por Blo
         </a>
       </td>
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-• Lógica de Negocio: Ideé el flujo operativo secuencial (Pre-alistamiento a Entrega) con control granular por pieza. Definí reglas automáticas de estados y optimización de procesos según el acabado (Mate vs. Brillante).
-• Arquitectura y Seguridad: Estructuré un sistema de roles y permisos (RBAC) para Administración, Recepción, Operarios y Mensajería, garantizando que cada usuario acceda solo a la información crítica para su labor.
-• Diseño UI/UX: Definí los requerimientos de una interfaz responsiva con Tailwind CSS, optimizada para el uso móvil de los operarios y un Dashboard con métricas en tiempo real para la gestión administrativa.
-• Integración de IA: Implementé la API de Google Gemini para reportes de productividad automáticos y optimización logística de rutas. Incorporé Text-to-Speech (TTS) para briefings operativos manos libres.
+• Lógica de Negocio: Ideé el flujo operativo secuencial (Pre-alistamiento a Entrega) con control granular por pieza. Definí reglas automáticas de estados y optimización de procesos según el acabado (Mate vs. Brillante).</p>
+• Arquitectura y Seguridad: Estructuré un sistema de roles y permisos (RBAC) para Administración, Recepción, Operarios y Mensajería, garantizando que cada usuario acceda solo a la información crítica para su labor.</p>
+• Diseño UI/UX: Definí los requerimientos de una interfaz responsiva con Tailwind CSS, optimizada para el uso móvil de los operarios y un Dashboard con métricas en tiempo real para la gestión administrativa.</p>
+• Integración de IA: Implementé la API de Google Gemini para reportes de productividad automáticos y optimización logística de rutas. Incorporé Text-to-Speech (TTS) para briefings operativos manos libres.</p>
 
-• Control de Calidad: Supervisé la corrección de errores en lógica de permisos y servicios de almacenamiento, además de estructurar datos semilla realistas para validación y demos.
+• Control de Calidad: Supervisé la corrección de errores en lógica de permisos y servicios de almacenamiento, además de estructurar datos semilla realistas para validación y demos.</p></p>
+
+
 </div>
     </table>
 
