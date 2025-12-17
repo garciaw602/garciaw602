@@ -167,6 +167,7 @@ Ingeniería Financiera: Ideé el núcleo del sistema basado en "Gestión por Blo
 
 • Control de Calidad: Supervisé la corrección de errores en lógica de permisos y servicios de almacenamiento, además de estructurar datos semilla realistas para validación y demos.</p></p>
 
+Google AI Studio
 
 </div>
     </table>
