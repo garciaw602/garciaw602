@@ -226,11 +226,11 @@ Google AI Studio
 <p align="center">
 	<a target='_blank'><img src='https://i.postimg.cc/jqh3CLNx/1.png' border='0' alt='1'/></a>
     <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-arboleda/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper/">
             <img src="https://img.icons8.com/?size=100&id=447&format=png&color=22C3E6"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://wilsongarcia.itch.io/">
             <img src="https://img.icons8.com/?size=100&id=b9_NzGK1H_Pe&format=png&color=22C3E6"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1r4IyoIIND5E4V9rURQGpyaL_6_PgdU6Y/view?usp=sharing">
+        <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1tgWL8fhTRD-rakYnbxc7ntNkjVgqGtjd/view?usp=sharing">
             <img src="https://img.icons8.com/?size=100&id=39372&format=png&color=22C3E6"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/wilon6942">
             <img src="https://img.icons8.com/?size=100&id=gxdxl0oMFoSA&format=png&color=22C3E6"></a>
