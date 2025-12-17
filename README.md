@@ -139,23 +139,21 @@ Creé mediante promt en inteligencia artificial todos los zombies y otros asset 
         <h4><a href="https://github.com/garciaw602/GestionRIesgo" style="color:#22c3e6;">Gestor de Riesgo (TRADING)</a></h4>
         <p>
 </div>	
-<br>
-	   1. Conceptualización y Estrategia</p>
-*Ideé una solución integral para resolver el problema de la gestión emocional y monetaria en el trading de opciones binarias.</p>
-*Definí el propósito fundamental de la aplicación: actuar como un asistente de disciplina automatizado y no solo como una calculadora.</p>
-*Estructuré la metodología de "Trading por Bloques" como núcleo del sistema para fragmentar las sesiones y asegurar la preservación del capital.</p></p>
-2. Ingeniería Financiera y Lógica</p>
-*Diseñé el algoritmo matemático híbrido que alterna entre interés compuesto (para rachas ganadoras) y recuperación controlada (para pérdidas), eliminando la decisión emocional del usuario.</p>
-*Establecí las constantes críticas de rentabilidad y riesgo (Meta del 3.33% y Stop Loss del 3%) basándome en análisis estadísticos de trading rentable.</p>
-*Determiné las reglas de negocio para la finalización automática de bloques y el bloqueo de operaciones ante límites alcanzados.</p></p>
-3. Diseño de Producto (UX/UI)</p>
-*Diseñé el flujo de trabajo del usuario (User Flow), asegurando que la interacción fuera intuitiva: Configurar -> Operar -> Analizar.</p>
-*Especifiqué la disposición visual (Layout) de los elementos en pantalla, priorizando la información crítica como el "Stake Sugerido" y el "Capital Actual".</p>
-*Definí los sistemas de retroalimentación visual y auditiva (alertas de victoria/derrota) para generar el impacto psicológico adecuado en el trader.</p></p>
-4. Dirección y Supervisión</p>
-*Dirigí el ciclo de desarrollo del software, instruyendo sobre qué funcionalidades priorizar en cada etapa (MVP y mejoras).</p>
-*Validé la precisión de los cálculos matemáticos realizados por el sistema para asegurar cero margen de error en el dinero real.</p>
-*Iteré sobre el diseño final, solicitando ajustes específicos en la interfaz (como la ubicación de los contadores de bloques) para optimizar la usabilidad. </p></p>
+<br>  </p>	
+Trading Sentinel: PWA de Gestión de Riesgo y Psicología
+oct. 2025 - nov. 2025  </p>
+Este programa es una Aplicación Web Progresiva (PWA) de Gestión de Riesgo para Opciones Binarias (Trading), construida con React y TypeScript.
+
+Dirección Estratégica y Desarrollo:
+Ingeniería Financiera: Ideé el núcleo del sistema basado en "Gestión por Bloques". Diseñé un algoritmo híbrido que alterna automáticamente entre interés compuesto (para maximizar rachas positivas) y recuperación controlada (para mitigar pérdidas), definiendo límites estrictos de Take Profit (3.33%) y Stop Loss (3%).
+
+Arquitectura de Software: Estructuré la aplicación utilizando React 19, TypeScript y Vite. Implementé una arquitectura modular basada en Custom Hooks (useTradingLogic) para separar el motor de cálculo matemático de la interfaz visual, garantizando reactividad y precisión.
+
+Diseño de Producto (UX/UI): Definí una interfaz de alta prioridad con Tailwind CSS y Radix UI, centrada en la visualización de datos críticos (Stake sugerido y Capital actual). Incluí sistemas de retroalimentación visual y auditiva para reforzar la disciplina operativa del usuario.
+
+Análisis y Persistencia: Conceptualicé herramientas de journaling y análisis estadístico, incluyendo un "Heatmap" de consistencia mensual y curvas de equidad mediante Recharts. La persistencia se maneja localmente para garantizar la privacidad total de los datos financieros.
+
+Validación Técnica: Superviso la precisión de los algoritmos de cálculo para asegurar cero margen de error en operaciones con capital real, iterando constantemente sobre la usabilidad del Dashboard. </p></p>
           <a href="https://gestionriesgo.vercel.app/" style="color:#22c3e6;">➡️ Prueba la aplicacion en vercel</a>
         </p></p>	 
 		Google AI Studio</p>
