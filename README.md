@@ -52,14 +52,10 @@ Implemento las mecánicas de juego utilizando C# y patrones de diseño como Sing
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
         <h4><a href="https://github.com/garciaw602/Elara" style="color:#148c2e;">🎮 Elara: Survival Shooter</a></h4>
         <p>
-         •
-Colaboré en la creación e implementación de las mecánicas principales del personaje, sus movimiento y animaciones, aportando fluidez a la experiencia de juego.</P>
-•
-Realicé las mecánicas del arma implementando partículas y efectos visuales por medio de código. Asegurando una mejor experiencia en el producto final.</P>
-•
-integré sonidos (SFX). Aportando una mayor inmersión al juego.</P>
-•
-Creé mediante promt en inteligencia artificial todos los zombies y otros asset para la ambientación el juego.</P>
+        - Colaboré en la creación e implementación de las mecánicas principales del personaje, sus movimiento y animaciones, aportando fluidez a la experiencia de juego.</P>
+		- Realicé las mecánicas del arma implementando partículas y efectos visuales por medio de código. Asegurando una mejor experiencia en el producto final.</P>
+		- integré sonidos (SFX). Aportando una mayor inmersión al juego.</P>
+		- Creé mediante promt en inteligencia artificial todos los zombies y otros asset para la ambientación el juego.</P>
           <br>
           <a href="https://wilsongarcia.itch.io/elara" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
         </p> </p>
