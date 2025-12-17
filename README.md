@@ -30,13 +30,9 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
 		      </td>
 		      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
 		       		 <h4><a href="https://github.com/garciaw602/EnRuta-EndlessRunner/tree/main" style="color:#22c3e6;">🎮 Enruta: Endless Runner 3D</a></h4> <p>
-						 •
-Coordino la gestión de tareas del proyecto a través de la utilización de herramientas de gestión del tiempo y comunicación efectiva, aumentando la productividad del equipo.
-
-• Lidero un equipo de 6 integrantes enfocando el desarrollo hacia una proyección social
-
-•
-Implemento las mecánicas de juego utilizando C# y patrones de diseño como Singleton y Observer, optimizando su funcionalidad.</p> </p> </p>
+• Coordino la gestión de tareas del proyecto a través de la utilización de herramientas de gestión del tiempo y comunicación efectiva, aumentando la productividad del equipo.</p>
+• Lidero un equipo de 6 integrantes enfocando el desarrollo hacia una proyección social</p>
+•Implemento las mecánicas de juego utilizando C# y patrones de diseño como Singleton y Observer, optimizando su funcionalidad.</p> </p> </p>
 <br>		   
       **(En proceso desde noviembre 2025)**</p>
 		  <a href="https://drive.google.com/file/d/1l_lw7ovUjE287g7nlHWNlogRvmWd61_e/view" style="color:#148c2e;">➡️ GDD</a>
@@ -52,10 +48,10 @@ Implemento las mecánicas de juego utilizando C# y patrones de diseño como Sing
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
         <h4><a href="https://github.com/garciaw602/Elara" style="color:#148c2e;">🎮 Elara: Survival Shooter</a></h4>
         <p>
-     - **Colaboré** en la creación e implementación de las mecánicas principales del personaje, sus movimiento y animaciones, aportando fluidez a la experiencia de juego.</P>
-	- **Realicé** las mecánicas del arma implementando partículas y efectos visuales por medio de código. Asegurando una mejor experiencia en el producto final.</P>
-	- ** integré** sonidos (SFX). Aportando una mayor inmersión al juego.</P>
-	- **Creé** mediante promt en inteligencia artificial todos los zombies y otros asset para la ambientación el juego.</P>
+     • **Colaboré** en la creación e implementación de las mecánicas principales del personaje, sus movimiento y animaciones, aportando fluidez a la experiencia de juego.</P>
+	• **Realicé** las mecánicas del arma implementando partículas y efectos visuales por medio de código. Asegurando una mejor experiencia en el producto final.</P>
+	•** integré** sonidos (SFX). Aportando una mayor inmersión al juego.</P>
+	• **Creé** mediante promt en inteligencia artificial todos los zombies y otros asset para la ambientación el juego.</P>
           <br>
           <a href="https://wilsongarcia.itch.io/elara" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
         </p> </p>
