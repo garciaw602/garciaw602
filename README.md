@@ -48,10 +48,10 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
         <h4><a href="https://github.com/garciaw602/Elara" style="color:#148c2e;">🎮 Elara: Survival Shooter</a></h4>
         <p>
-     • **Colaboré** en la creación e implementación de las mecánicas principales del personaje, sus movimiento y animaciones, aportando fluidez a la experiencia de juego.</P>
-	• **Realicé** las mecánicas del arma implementando partículas y efectos visuales por medio de código. Asegurando una mejor experiencia en el producto final.</P>
-	•** integré** sonidos (SFX). Aportando una mayor inmersión al juego.</P>
-	• **Creé** mediante promt en inteligencia artificial todos los zombies y otros asset para la ambientación el juego.</P>
+    • Colaboré en la creación e implementación de las mecánicas principales del personaje, sus movimiento y animaciones, aportando fluidez a la experiencia de juego.</P>
+	• Realicé las mecánicas del arma implementando partículas y efectos visuales por medio de código. Asegurando una mejor experiencia en el producto final.</P>
+	• integré sonidos (SFX). Aportando una mayor inmersión al juego.</P>
+	• Creé** mediante promt en inteligencia artificial todos los zombies y otros asset para la ambientación el juego.</P>
           <br>
           <a href="https://wilsongarcia.itch.io/elara" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
         </p> </p>
@@ -133,16 +133,16 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
 </div>	
 <br>  </p>	
 
-*Dirección Estratégica y Desarrollo:
+• Dirección Estratégica y Desarrollo:
 Ingeniería Financiera: Ideé el núcleo del sistema basado en "Gestión por Bloques". Diseñé un algoritmo híbrido que alterna automáticamente entre interés compuesto (para maximizar rachas positivas) y recuperación controlada (para mitigar pérdidas), definiendo límites estrictos de Take Profit (3.33%) y Stop Loss (3%).
 
-*Arquitectura de Software: Estructuré la aplicación utilizando React 19, TypeScript y Vite. Implementé una arquitectura modular basada en Custom Hooks (useTradingLogic) para separar el motor de cálculo matemático de la interfaz visual, garantizando reactividad y precisión.
+• Arquitectura de Software: Estructuré la aplicación utilizando React 19, TypeScript y Vite. Implementé una arquitectura modular basada en Custom Hooks (useTradingLogic) para separar el motor de cálculo matemático de la interfaz visual, garantizando reactividad y precisión.
 
 *Diseño de Producto (UX/UI): Definí una interfaz de alta prioridad con Tailwind CSS y Radix UI, centrada en la visualización de datos críticos (Stake sugerido y Capital actual). Incluí sistemas de retroalimentación visual y auditiva para reforzar la disciplina operativa del usuario.
 
-*Análisis y Persistencia: Conceptualicé herramientas de journaling y análisis estadístico, incluyendo un "Heatmap" de consistencia mensual y curvas de equidad mediante Recharts. La persistencia se maneja localmente para garantizar la privacidad total de los datos financieros.
+• Análisis y Persistencia: Conceptualicé herramientas de journaling y análisis estadístico, incluyendo un "Heatmap" de consistencia mensual y curvas de equidad mediante Recharts. La persistencia se maneja localmente para garantizar la privacidad total de los datos financieros.
 
-*Validación Técnica: Superviso la precisión de los algoritmos de cálculo para asegurar cero margen de error en operaciones con capital real, iterando constantemente sobre la usabilidad del Dashboard. </p></p>
+• Validación Técnica: Superviso la precisión de los algoritmos de cálculo para asegurar cero margen de error en operaciones con capital real, iterando constantemente sobre la usabilidad del Dashboard. </p></p>
           <a href="https://gestionriesgo.vercel.app/" style="color:#22c3e6;">➡️ Prueba la aplicacion en vercel</a>
         </p></p>	 
 		Google AI Studio</p>
