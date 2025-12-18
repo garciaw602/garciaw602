@@ -202,7 +202,7 @@ Google AI Studio
 </div>
     </table>
 
-<img src="https://github.com/garciaw602/garciaw602/blob/main/ciber2.gif" alt="GIF del juego Enruta" width="1000" style="margin-bottom: 10px;">
+<img src="https://github.com/garciaw602/garciaw602/blob/main/ciber2.gif" alt="GIF del juego Enruta" width="300" style="margin-bottom: 10px;">
 
 
 
