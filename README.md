@@ -156,7 +156,6 @@ tr.fondo-negro {
   background-color: #000000;
   color: white;
 }
-</style>
     <tr>
       <td width="30%" align="center">
         <a href="https://github.com/garciaw602/GestionRIesgo">
@@ -207,6 +206,7 @@ Ingeniería Financiera: Ideé el núcleo del sistema basado en "Gestión por Blo
 Google AI Studio
 
 </div>
+</style>
     </table>
 
 <img src="https://github.com/garciaw602/garciaw602/blob/main/ciber2.gif" alt="GIF del juego Enruta" width="300" style="margin-bottom: 10px;">
