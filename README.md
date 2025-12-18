@@ -224,7 +224,7 @@ Google AI Studio
 
 
 <p align="center">
-	<a target='_blank'><img src='https://i.ibb.co/WWy16zsC/Proyecto-nuevo-9.png' border='0' alt='1'/></a>
+	<a target='_blank'><img src='https://i.ibb.co/Rkwkv80Z/Contacto.png' border='0' alt='1'/></a>
     <div align="center" class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper">
             <img src="https://i.ibb.co/MJxjvL2/Proyecto-nuevo-10.png"></a>
