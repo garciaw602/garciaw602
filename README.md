@@ -227,7 +227,7 @@ Google AI Studio
 	<a target='_blank'><img src='https://i.postimg.cc/jqh3CLNx/1.png' border='0' alt='1'/></a>
     <div align="center" class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper/">
-            <img src="https://imgbb.com/"><img src="https://ibb.co/mrdhLm8C"><img src="https://i.ibb.co/RGtQx1yp/link.png"></a>
+            <img src="https://imgbb.com/"><img src="https://i.ibb.co/MJxjvL2/Proyecto-nuevo-10.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://wilsongarcia.itch.io/">
             <img src="https://img.icons8.com/?size=100&id=b9_NzGK1H_Pe&format=png&color=22C3E6"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1tgWL8fhTRD-rakYnbxc7ntNkjVgqGtjd/view?usp=sharing">
