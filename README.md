@@ -1,3 +1,31 @@
+<table width="100%">
+  <tr>
+    <td bgcolor="#000000" align="center">
+      <br />
+      <a target='_blank'>
+        <img src='https://i.ibb.co/22T2dQZ/Banner-1-4.png' border='0' alt='1' width='600'>
+      </a>
+      <br /><br />      
+      <div class="icons-social">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper">
+          <img src="https://i.ibb.co/MJxjvL2/Proyecto-nuevo-10.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://wilsongarcia.itch.io/">
+          <img src="https://i.ibb.co/rjSFC74/ich.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1tgWL8fhTRD-rakYnbxc7ntNkjVgqGtjd/view?usp=sharing">
+          <img src="https://i.ibb.co/zhZxCqvY/CV.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/wilon6942">
+          <img src="https://i.ibb.co/xtjCWHPp/discor-9.png"></a>
+      </div>
+      <br />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 <div align="center">
     <a href='https://postimages.org/' target='_blank'><img src='https://i.ibb.co/Txj3Ry3r/Banner-1-2.png' border='0' alt='banner-git-removebg-preview-1'/></a>
 </div>
