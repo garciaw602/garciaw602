@@ -269,7 +269,6 @@ Google AI Studio
 
 <p align="center">
 	<a target='_blank'></a>
-    <div align="center" class="icons-social" style="margin-left: 20px;">
-		
+    <div align="center" class="icons-social" style="margin-left: 20px;">		
     </div>
 </p>
