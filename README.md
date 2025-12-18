@@ -2,7 +2,7 @@
     <a href='https://postimages.org/' target='_blank'><img src='https://i.ibb.co/bGKDVTj/Gemini-Generated-Image-5ax4ry5ax4ry5ax4-2-1.png' border='0' alt='banner-git-removebg-preview-1'/></a>
 </div>
 
-
+ <h4><a href="https://github.com/garciaw602/Acerca-de-m-" style="color:#22c3e6;">Acerca de mí</a></h4> <p>
 
 <p align="center">
 	<a target='_blank'><img src='https://i.ibb.co/Rkwkv80Z/Contacto.png' border='0' alt='1'/></a>
