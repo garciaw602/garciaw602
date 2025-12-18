@@ -151,6 +151,12 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
   <h3>Otros Proyectos</h3>
   
   <table width="100%" align="center">
+	  <style>
+tr.fondo-negro {
+  background-color: #000000;
+  color: white;
+}
+</style>
     <tr>
       <td width="30%" align="center">
         <a href="https://github.com/garciaw602/GestionRIesgo">
