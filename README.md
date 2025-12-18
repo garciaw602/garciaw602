@@ -92,7 +92,7 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
           <br>
           <a href="https://wilsongarcia.itch.io/elara" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
         </p> </p>
-		Unity Engine | C# | Visual Studio | Trello Figma  | Tripo AI
+		Unity Engine | C# | Visual Studio | Trello | Figma  | Tripo AI
       </td>
     </tr>
     <tr>
@@ -120,7 +120,7 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
           <br>
           <a href="https://wilsongarcia.itch.io/pullulat-spei" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
         </p> </p>
-		Unity Engine | C# | Visual Studio | Trello Figma | Meshy AI | Tripo AI
+		Unity Engine | C# | Visual Studio | Trello | Figma | Meshy AI | Tripo AI
       </td>
     </tr>
     <tr>
