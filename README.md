@@ -158,8 +158,7 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
   <h3>Otros Proyectos</h3>
   
   <table width="100%" align="center">
-	  <style>
-    <tr>
+	     <tr>
       <td width="30%" align="center">
         <a href="https://github.com/garciaw602/GestionRIesgo">
           <img src="https://github.com/garciaw602/GestionRIesgo/blob/main/GestiondeRiesgo.gif" alt="GIF del juego Elara" width="200" style="margin-bottom: 10px;">
