@@ -231,7 +231,7 @@ Google AI Studio
         <a style="margin-left: 10px;" target="_blank" href="https://wilsongarcia.itch.io/">
             <img src="https://img.icons8.com/?size=100&id=b9_NzGK1H_Pe&format=png&color=22C3E6"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1tgWL8fhTRD-rakYnbxc7ntNkjVgqGtjd/view?usp=sharing">
-            <img src="https://img.icons8.com/?size=100&id=39372&format=png&color=22C3E6"></a>
+            <img src="https://i.ibb.co/zhZxCqvY/CV.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/wilon6942">
             <img src="https://i.ibb.co/xtjCWHPp/discor-9.png"></a>
     </div>
