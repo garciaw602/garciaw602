@@ -156,7 +156,7 @@ Ingeniería Financiera: Ideé el núcleo del sistema basado en "Gestión por Blo
     <tr>
 		     <td width="30%" align="center">
         <a href="https://github.com/Thingy25/GenJam1">
-          <img src="https://i.ibb.co/81McmY7/Moto-Paint-Pro.gif" alt="GIF MotopaintPro" width="200" style="margin-bottom: 10px;">
+          <img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro1.gif" alt="GIF MotopaintPro" width="200" style="margin-bottom: 10px;">
         </a>
       </td>
       <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
