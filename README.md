@@ -6,16 +6,16 @@
 
 <p align="center">
 	<a target='_blank'><img src='https://i.ibb.co/NgvZM1CH/Banner-1-3.png' border='0' alt='1'/></a>
-<div class="icons-social" style="background-color: #000000; width: 100%; padding: 20px 0; text-align: center;">
-    <a style="margin: 0 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper">
-        <img src="https://i.ibb.co/MJxjvL2/Proyecto-nuevo-10.png" style="vertical-align: middle;"></a>
-    <a style="margin: 0 10px;" target="_blank" href="https://wilsongarcia.itch.io/">
-        <img src="https://i.ibb.co/rjSFC74/ich.png" style="vertical-align: middle;"></a>
-    <a style="margin: 0 10px;" target="_blank" href="https://drive.google.com/file/d/1tgWL8fhTRD-rakYnbxc7ntNkjVgqGtjd/view?usp=sharing">
-        <img src="https://i.ibb.co/zhZxCqvY/CV.png" style="vertical-align: middle;"></a>
-    <a style="margin: 0 10px;" target="_blank" href="https://discord.com/users/wilon6942">
-        <img src="https://i.ibb.co/xtjCWHPp/discor-9.png" style="vertical-align: middle;"></a>
-</div>
+  <div align="center" class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper">
+            <img src="https://i.ibb.co/MJxjvL2/Proyecto-nuevo-10.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://wilsongarcia.itch.io/">
+            <img src="https://i.ibb.co/rjSFC74/ich.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1tgWL8fhTRD-rakYnbxc7ntNkjVgqGtjd/view?usp=sharing">
+            <img src="https://i.ibb.co/zhZxCqvY/CV.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/wilon6942">
+            <img src="https://i.ibb.co/xtjCWHPp/discor-9.png"></a>
+    </div>
 </p>
 </p></p></p></p></p></p></p></p>
 
