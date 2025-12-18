@@ -244,7 +244,7 @@ Google AI Studio
 
 
 <p align="center">
-	<a target='_blank'><img src='https://i.postimg.cc/brMz1LMb/icons8-discord-50-Recuperado.png' border='0' alt='icons8-discord-50-Recuperado'/></a>
+	<a target='_blank'><img src='https://i.ibb.co/qLmTY5Xh/tec.png' border='0' alt='icons8-discord-50-Recuperado'/></a>
     <div align="center" class="icons-social" style="margin-left: 20px;">
         <a href="#"><img src="https://img.icons8.com/?size=100&id=38240&format=png&color=22C3E6"></a>
 	    <a href="#"><img src="https://img.icons8.com/?size=100&id=26029&format=png&color=22C3E6"></a>
