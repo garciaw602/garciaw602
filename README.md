@@ -5,7 +5,7 @@
  <h4><a href="https://github.com/garciaw602/Acerca-de-m-" style="color:#22c3e6;">Acerca de mí</a></h4> <p>
 
 <p align="center">
-	<a target='_blank'><img src='https://i.ibb.co/22T2dQZ/Banner-1-4.png' border='0' alt='1'/></a>
+	<a target='_blank'><img src='https://i.ibb.co/22T2dQZ/Banner-1-4.png' width="200" border='0' alt='1'/></a>
   <div align="center" class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper">
             <img src="https://i.ibb.co/MJxjvL2/Proyecto-nuevo-10.png"></a>
