@@ -246,12 +246,12 @@ Google AI Studio
 <p align="center">
 	<a target='_blank'></a>
     <div align="center" class="icons-social" style="margin-left: 20px;">
-        <a href="#"><img src="https://i.ibb.co/wrsrx5yF/unreal.png"></a>
-	    <a href="#"><img src="https://img.icons8.com/?size=100&id=26029&format=png&color=22C3E6"></a>
-	    <a href="#"><img src="https://img.icons8.com/?size=100&id=55205&format=png&color=22C3E6"></a>
-	    <a href="#"><img src="https://img.icons8.com/?size=100&id=121601&format=png&color=22C3E6"></a>
-	    <a href="#"><img src="https://img.icons8.com/?size=100&id=11113&format=png&color=22C3E6"></a>
-	    <a href="#"><img src="https://img.icons8.com/?size=100&id=11566&format=png&color=22C3E6"></a>
-	    <a href="#"><img src="https://img.icons8.com/?size=100&id=03aYi0fY0D9X&format=png&color=22C3E6"></a>
+        <a href="#"><img src="https://i.ibb.co/D0Y4ZT6/Unreal.png"></a>
+	    <a href="#"><img src="https://i.ibb.co/zhYwJ2gz/Unity.png"></a>
+	    <a href="#"><img src="https://i.ibb.co/27TygmR6/C.png"></a>
+	    <a href="#"><img src="https://i.ibb.co/qLymb1wD/Visual.png"></a>
+	    <a href="#"><img src="https://i.ibb.co/Hfj20DRV/Photoshop.png"></a>
+	    <a href="#"><img src="https://i.ibb.co/NggYw91K/Excel.png"></a>
+	    <a href="#"><img src="https://i.ibb.co/60Cx4030/Power.png"></a>
     </div>
 </p>
