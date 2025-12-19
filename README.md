@@ -55,7 +55,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper">
             <img src="https://i.ibb.co/8gv43Zn5/iconos.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://wilsongarcia.itch.io/">
-            <img src="https://i.ibb.co/rjSFC74/ich.png"></a>
+            <img src="https://i.ibb.co/j9X2rpDY/Gemini-Generated-Image-6tdq656tdq656tdq.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1tgWL8fhTRD-rakYnbxc7ntNkjVgqGtjd/view?usp=sharing">
             <img src="https://i.ibb.co/zhZxCqvY/CV.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/wilon6942">
