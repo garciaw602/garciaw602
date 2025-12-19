@@ -11,7 +11,7 @@
 
 <div align="center">
           <a align="center" style="margin-left: 100px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper">
-            <img src="https://i.ibb.co/8nn7VVvS/Proyecto-nuevo-12-removebg-preview-1.png" alt="GIF" width="300" style="margin-bottom: 10px;"></a>
+            <img src="https://i.ibb.co/8nn7VVvS/Proyecto-nuevo-12-removebg-preview-1.png" alt="GIF" width="200" style="margin-bottom: 10px;"></a>
 </div>
 
 
