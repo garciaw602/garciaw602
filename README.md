@@ -9,16 +9,39 @@
     <a href='https://postimages.org/' target='_blank'><img src='https://i.ibb.co/8g0fW19q/Gemini-Generated-Image-hnn4fmhnn4fmhnn4-removebg-preview-1.png' border='0' alt='banner-git-removebg-preview-1'/></a>
 </div>
 
-<div align="center">
-          <a align="center" style="margin-left: 100px;" target="_blank" href="https://github.com/garciaw602/Acerca-de-m-">
-            <img src="https://i.ibb.co/8nn7VVvS/Proyecto-nuevo-12-removebg-preview-1.png" alt="GIF" width="100" style="margin-bottom: 10px;"></a>
+
+
+<div align="center" style="color:#148c2e;">
+  <br>
+  <h3 style="color:#148c2e;">!HOLA! </h3>
+  <p style="color:#148c2e;">Soy ingeniero en sistemas
+        <br>
+     con experiencia en desarrollador de software, aplicaciones y soporte tecnológico empresarial.
+	  
+Me apasiona aprovechar la tecnología como herramienta para lograr objetivos.
+Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación de espacios inmersivos y las mecánicas para poder disfrutar de estos espacios.
+.
+  </p>
 </div>
 
 
 
 
 
- <h4><a href="https://github.com/garciaw602/Acerca-de-m-" style="color:#22c3e6;">Acerca de mí</a></h4> <p>
+
+
+<div align="center">
+ <a align="center" style="margin-left: 100px;" target="_blank" href="https://github.com/garciaw602/Acerca-de-m-">
+ <img src="https://i.ibb.co/8nn7VVvS/Proyecto-nuevo-12-removebg-preview-1.png" alt="GIF" width="100" style="margin-bottom: 10px;"></a>
+<a align="center" style="margin-left: 100px;" target="_blank" href="https://github.com/garciaw602/Acerca-de-m-">
+ <img src="https://i.ibb.co/8nn7VVvS/Proyecto-nuevo-12-removebg-preview-1.png" alt="GIF" width="100" style="margin-bottom: 10px;"></a>
+</div>
+
+
+
+
+
+
 
 <p align="center">
 	<a target='_blank'><img src='https://i.ibb.co/22T2dQZ/Banner-1-4.png' width="150" border='0' alt='1'/></a>
@@ -49,18 +72,6 @@
 
 
 
-<div align="center" style="color:#148c2e;">
-  <br>
-  <h3 style="color:#148c2e;">!HOLA! </h3>
-  <p style="color:#148c2e;">Soy ingeniero en sistemas
-        <br>
-     con experiencia en desarrollador de videojuegos, aplicaciones y soporte tecnológico empresarial.
-	  
-Me apasiona aprovechar la tecnología como herramienta para lograr objetivos.
-Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación de espacios inmersivos y sobre todo las mecánicas para poder disfrutar de estos espacios.
-.
-  </p>
-</div>
 
 
 <div align="center" style="color:#148c2e;">
