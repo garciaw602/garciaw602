@@ -10,7 +10,7 @@
 </div>
         <a align="center" style="margin-left: 100px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper">
             <img src="https://i.ibb.co/8nn7VVvS/Proyecto-nuevo-12-removebg-preview-1.png" width="100"></a>
-
+<img src="https://i.ibb.co/8nn7VVvS/Proyecto-nuevo-12-removebg-preview-1.png" alt="GIF del juego Enruta" width="300" style="margin-bottom: 10px;">
 
 
  <h4><a href="https://github.com/garciaw602/Acerca-de-m-" style="color:#22c3e6;">Acerca de mí</a></h4> <p>
