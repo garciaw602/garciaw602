@@ -34,7 +34,7 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
  <a align="center" style="margin-left: 100px;" target="_blank" href="https://github.com/garciaw602/Acerca-de-m-">
  <img src="https://i.ibb.co/8nn7VVvS/Proyecto-nuevo-12-removebg-preview-1.png" alt="GIF" width="100" style="margin-bottom: 10px;"></a></p>
 <a align="center" style="margin-left: 100px;" target="_blank" href="https://github.com/garciaw602/Acerca-de-m-">
- <img src="https://i.ibb.co/8nn7VVvS/Proyecto-nuevo-12-removebg-preview-1.png" alt="GIF" width="100" style="margin-bottom: 10px;"></a>
+ <img src="https://i.ibb.co/JWPSSHwN/v-IDEO-j-UEGOS.png" alt="GIF" width="100" style="margin-bottom: 10px;"></a>
 </div>
 
 
