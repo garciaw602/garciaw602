@@ -50,7 +50,7 @@
 
 
 <p align="center">
-	<a target='_blank'><img src='https://i.ibb.co/Rp9SpVQz/Gemini-Generated-Image-si1gpnsi1gpnsi1g-removebg-preview.png' width="150" border='0' alt='1'/></a>
+	<a target='_blank'><img src='https://i.ibb.co/Rp9SpVQz/Gemini-Generated-Image-si1gpnsi1gpnsi1g-removebg-preview.png' width="300" border='0' alt='1'/></a>
   <div align="center" class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper">
             <img src="https://i.ibb.co/8gv43Zn5/iconos.png"></a>
