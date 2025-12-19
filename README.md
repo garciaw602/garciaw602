@@ -22,7 +22,7 @@
   
   <tr>
     <td align="center">
-      <a href="https://github.com/garciaw602/Acerca-de-m-" style="display: block; width: 200px; padding: 10px; background-color: #22c3e6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-family: sans-serif;">
+      <a href="https://github.com/garciaw602/Videojuegos/tree/main#readme-" style="display: block; width: 200px; padding: 10px; background-color: #22c3e6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-family: sans-serif;">
         Videojuegos
       </a>
     </td>
@@ -74,105 +74,6 @@
 
 
 
-
-
-
-
-
-
-<div align="center" style="color:#148c2e;">
-  <br>
-  <h3>Proyectos Videojuegos</h3>  
-  <table width="100%" align="center">
-		<tr>
-		      <td width="30%" align="center">
-		        	<a href="https://github.com/garciaw602/EnRuta-EndlessRunner/tree/main">
-		          		<img src="https://github.com/garciaw602/EnRuta-EndlessRunner/blob/main/EnRuta-EndlessRunner/Enruta.gif" alt="GIF del juego Enruta" width="200" style="margin-bottom: 10px;">
-		       		 </a>
-		      </td>
-		      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-		       		 <h4><a href="https://github.com/garciaw602/EnRuta-EndlessRunner/tree/main" style="color:#22c3e6;">🎮 Enruta: Endless Runner 3D</a></h4> <p>
-						 
-• Coordino la gestión de tareas del proyecto a través de la utilización de herramientas de gestión del tiempo y comunicación efectiva, aumentando la productividad del equipo.</p>
-• Lidero un equipo de 6 integrantes enfocando el desarrollo hacia una proyección social</p>
-•Implemento las mecánicas de juego utilizando C# y patrones de diseño como Singleton y Observer, optimizando su funcionalidad.</p> </p> </p>
-<br>		   
-   <h3>  En proceso desde noviembre 2025</h3>  </p>
-		  <a href="https://drive.google.com/file/d/1l_lw7ovUjE287g7nlHWNlogRvmWd61_e/view" style="color:#148c2e;">➡️ GDD</a>
-			  Unity Engine | C# | Visual Studio | Trello Figma | Meshy AI | Tripo AI
-      </td>
-    </tr>	  
-    <tr>
-      <td width="30%" align="center">
-        <a href="https://drive.google.com/file/d/1l_lw7ovUjE287g7nlHWNlogRvmWd61_e/view">
-          <img src="https://github.com/garciaw602/Elara/blob/main/Elara%20gif.gif" alt="GDD" width="200" style="margin-bottom: 10px;">
-        </a>
-      </td>
-      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-        <h4><a href="https://github.com/garciaw602/Elara" style="color:#148c2e;">🎮 Elara: Survival Shooter</a></h4>
-        <p>
-    • Colaboré en la creación e implementación de las mecánicas principales del personaje, sus movimiento y animaciones, aportando fluidez a la experiencia de juego.</P>
-	• Realicé las mecánicas del arma implementando partículas y efectos visuales por medio de código. Asegurando una mejor experiencia en el producto final.</P>
-	• integré sonidos (SFX). Aportando una mayor inmersión al juego.</P>
-	• Creé** mediante promt en inteligencia artificial todos los zombies y otros asset para la ambientación el juego.</P>
-          <br>
-          <a href="https://wilsongarcia.itch.io/elara" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
-        </p> </p>
-		Unity Engine | C# | Visual Studio | Trello | Figma  | Tripo AI
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <hr style="border-top: 1px solid #22c3e6; margin: 20px 0;">
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="center">
-        <a href="https://github.com/Thingy25/GenJam1">
-          <img src="https://raw.githubusercontent.com/garciaw602/pullulat-spei/main/gif%20pullulat.gif" alt="GIF del juego Pullulat-Spei" width="200" style="margin-bottom: 10px;">
-        </a>
-      </td>
-      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-        <h4><a href="https://github.com/garciaw602/pullulat-spei" style="color:#148c2e;">🌱 Pullulat-Spei: Plataformas 2.5D</a></h4>
-        <p>
-         **Sistemas de Jugabilidad y Entorno**
-
-- **Movimiento del Jugador:** Implementé la mecánica de movimiento del jugador, asegurando una jugabilidad fluida.
-- **Interacción de Objetos:** Implementé la lógica para interactuar con objetos en el entorno, como la mecánica de "agarrar cubos".
-- **Habilidades y Movimiento:** Desarrollé los elementos de impulso (resortes) para que el jugador alcance nuevas alturas, y programé las mecánicas de supervivencia basadas en la gestión de la "batería" o energía limitada.
-- **Gestión de Amenazas:** Creé los sistemas para generar amenazas ambientales de forma dinámica, como barriles rodantes, y la lógica detrás de las zonas de peligro (vacío, zonas tóxicas).
-- **Programación Audiovisual:** Me encargué de la programación de los sistemas de audio global y del jugador, así como de la activación de efectos de partículas para una experiencia visual envolvente.
-- **Cámara y Fondos:** Implementé el sistema de seguimiento de cámara y, de manera crucial, desarrollé el efecto de paralaje para los fondos, añadiendo una profunda sensación de escala y dinamismo.
-          <br>
-          <a href="https://wilsongarcia.itch.io/pullulat-spei" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
-        </p> </p>
-		Unity Engine | C# | Visual Studio | Trello | Figma | Meshy AI | Tripo AI
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <hr style="border-top: 1px solid #22c3e6; margin: 20px 0;">
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="center">
-        <a href="https://thingy25.itch.io/synergy">
-          <img src="https://raw.githubusercontent.com/garciaw602/Elara/main/synergy%20gif.gif" alt="GIF del juego Synergy" width="200" style="margin-bottom: 10px;">
-        </a>
-      </td>
-      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-        <h4><a href="https://github.com/Thingy25/GenJam1" style="color:#148c2e;">🌌 Synergy: Exploración y Puzles</a></h4>
-        <p>
-          Un juego de exploración y puzles desarrollado en una Game Jam. El protagonista debe reencontrarse con su alma en un universo en caos.
-          <br>
-          <a href="https://thingy25.itch.io/synergy" style="color:#148c2e;">➡️ Juega ahora en itch.io</a>
-        </p> </p>
-		  Unity Engine | C# | Visual Studio 
-      </td>
-    </tr>
-    </table>
-  <br>
-</div>
 
 
 
