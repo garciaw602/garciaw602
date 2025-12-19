@@ -1,14 +1,16 @@
 <div align="center">
-    <a href='https://postimages.org/' target='_blank'><img src='https://i.ibb.co/8g0fW19q/Gemini-Generated-Image-hnn4fmhnn4fmhnn4-removebg-preview-1.png' border='0' alt='banner-git-removebg-preview-1'/></a>
+    <a href='https://postimages.org/' target='_blank'><img src='https://i.ibb.co/8g0fW19q/Gemini-Generated-Image-hnn4fmhnn4fmhnn4-removebg-preview-1.png' border='0' alt='banner-git-removebg-preview-1'/></a>	
 </div>
-<div align="center" style="color:#148c2e;">
+
+
+<div align="center" style="max-width: 800px; margin: 0 auto;">
   <br>
-	<h3 style="color:#148c2e;">!HOLA! </h3>
-  		<p style="color:#148c2e;">Soy ingeniero en sistemas
-  <br>
-con experiencia en desarrollador de software, aplicaciones y soporte tecnológico empresarial.
-Me apasiona aprovechar la tecnología como herramienta para lograr objetivos.
-Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación de espacios inmersivos y las mecánicas para poder disfrutar de estos espacios.
+  <h3 style="color:#148c2e; text-align: center;">!HOLA!</h3>
+  
+  <p style="color:#148c2e; text-align: justify; font-family: sans-serif; line-height: 1.6;">
+    Soy ingeniero en sistemas con experiencia en desarrollador de software, aplicaciones y soporte 	    tecnológico empresarial. 
+    Me apasiona aprovechar la tecnología como herramienta para lograr objetivos. 
+    Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación de espacios inmersivos y las mecánicas para poder disfrutar de estos espacios.
   </p>
 </div>
 
