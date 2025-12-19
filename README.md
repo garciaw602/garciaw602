@@ -57,9 +57,9 @@
         <a style="margin-left: 10px;" target="_blank" href="https://wilsongarcia.itch.io/">
             <img src="https://i.ibb.co/mYYHXXd/iconos.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1tgWL8fhTRD-rakYnbxc7ntNkjVgqGtjd/view?usp=sharing">
-            <img src="https://i.ibb.co/zhZxCqvY/CV.png"></a>
+            <img src="https://i.ibb.co/PGHBZy8V/CV-2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/wilon6942">
-            <img src="https://i.ibb.co/xtjCWHPp/discor-9.png"></a>
+            <img src="https://i.ibb.co/qLmkR8vn/discor.png"></a>
     </div>
 </p>
 </p></p></p></p></p></p></p></p>
