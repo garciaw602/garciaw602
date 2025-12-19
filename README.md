@@ -8,6 +8,10 @@
 <div align="center">
     <a href='https://postimages.org/' target='_blank'><img src='https://i.ibb.co/8g0fW19q/Gemini-Generated-Image-hnn4fmhnn4fmhnn4-removebg-preview-1.png' border='0' alt='banner-git-removebg-preview-1'/></a>
 </div>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper">
+            <img src="https://github.com/garciaw602/Acerca-de-m-"></a>
+
+
 
  <h4><a href="https://github.com/garciaw602/Acerca-de-m-" style="color:#22c3e6;">Acerca de mí</a></h4> <p>
 
