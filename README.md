@@ -16,21 +16,33 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
 
 
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 100vh; gap: 20px;">
+<table align="center">
+  
+  <tr>
+    <td align="center">
+      <a href="https://github.com/garciaw602/Acerca-de-m-" style="display: block; width: 200px; padding: 10px; background-color: #22c3e6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-family: sans-serif;">
+        Videojuegos
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://github.com/garciaw602/Acerca-de-m-" style="display: inline-block; width: 250px; padding: 15px; background-color: #22c3e6; color: white; text-align: center; text-decoration: none; border-radius: 10px; font-family: sans-serif; font-weight: bold;">
-    Videojuegos
-  </a>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/garciaw602/Acerca-de-m-" style="display: block; width: 200px; padding: 10px; background-color: #22c3e6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-family: sans-serif;">
+        Desarrollo con IA
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://github.com/garciaw602/Acerca-de-m-" style="display: inline-block; width: 250px; padding: 15px; background-color: #22c3e6; color: white; text-align: center; text-decoration: none; border-radius: 10px; font-family: sans-serif; font-weight: bold;">
-    Desarrollo con IA
-  </a>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/garciaw602/Acerca-de-m-" style="display: block; width: 200px; padding: 10px; background-color: #22c3e6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-family: sans-serif;">
+        Acerca de mí
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://github.com/garciaw602/Acerca-de-m-" style="display: inline-block; width: 250px; padding: 15px; background-color: #22c3e6; color: white; text-align: center; text-decoration: none; border-radius: 10px; font-family: sans-serif; font-weight: bold;">
-    Acerca de mí
-  </a>
-
-</div>
+</table>
 
 
 
