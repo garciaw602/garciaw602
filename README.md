@@ -8,7 +8,7 @@
 <div align="center">
     <a href='https://postimages.org/' target='_blank'><img src='https://i.ibb.co/8g0fW19q/Gemini-Generated-Image-hnn4fmhnn4fmhnn4-removebg-preview-1.png' border='0' alt='banner-git-removebg-preview-1'/></a>
 </div>
-        <a align="center" style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper">
+        <a align="center" style="margin-left: 100px;" target="_blank" href="https://www.linkedin.com/in/wilson-garcia-gamedeveloper">
             <img src="https://i.ibb.co/8nn7VVvS/Proyecto-nuevo-12-removebg-preview-1.png" width="100"></a>
 
 
