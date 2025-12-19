@@ -16,17 +16,17 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
 
 
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 12px; margin-top: 20px;">
   
-  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; display: inline-block;">
+  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; width: 200px; text-align: center; display: block;">
     Videojuegos
   </a>
 
-  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; display: inline-block;">
+  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; width: 200px; text-align: center; display: block;">
     Desarrollo con IA
   </a>
 
-  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; display: inline-block;">
+  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; width: 200px; text-align: center; display: block;">
     Acerca de mí
   </a>
 
