@@ -16,20 +16,21 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
 
 
 
-<h4><a href="https://github.com/garciaw602/Acerca-de-m-" style="color:#22c3e6;">Videojuegos</a></h4>
-<h4><a href="https://github.com/garciaw602/Acerca-de-m-" style="color:#22c3e6;">Desarrollo con IA</a></h4>
-<h4><a href="https://github.com/garciaw602/Acerca-de-m-" style="color:#22c3e6;">Acerca de mí</a></h4> 
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
+  
+  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; display: inline-block;">
+    Videojuegos
+  </a>
 
+  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; display: inline-block;">
+    Desarrollo con IA
+  </a>
 
+  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; display: inline-block;">
+    Acerca de mí
+  </a>
 
-<div align="center">
- <a align="center" style="margin-left: 100px;" target="_blank" href="https://github.com/garciaw602/Acerca-de-m-">
- <img src="https://i.ibb.co/8nn7VVvS/Proyecto-nuevo-12-removebg-preview-1.png" alt="GIF" width="100" style="margin-bottom: 10px;"></a></p>
-<a align="center" style="margin-left: 100px;" target="_blank" href="https://github.com/garciaw602/Acerca-de-m-">
- <img src="https://i.ibb.co/JWPSSHwN/v-IDEO-j-UEGOS.png" alt="GIF" width="100" style="margin-bottom: 10px;"></a>
 </div>
-
-
 
 
 
