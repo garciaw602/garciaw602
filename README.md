@@ -16,22 +16,21 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
 
 
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 100vh; gap: 15px;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 100vh; gap: 20px;">
 
-  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 15px 30px; text-decoration: none; border-radius: 10px; font-weight: bold; font-family: Arial, sans-serif; width: 220px; text-align: center; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+  <a href="https://github.com/garciaw602/Acerca-de-m-" style="display: inline-block; width: 250px; padding: 15px; background-color: #22c3e6; color: white; text-align: center; text-decoration: none; border-radius: 10px; font-family: sans-serif; font-weight: bold;">
     Videojuegos
   </a>
 
-  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 15px 30px; text-decoration: none; border-radius: 10px; font-weight: bold; font-family: Arial, sans-serif; width: 220px; text-align: center; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+  <a href="https://github.com/garciaw602/Acerca-de-m-" style="display: inline-block; width: 250px; padding: 15px; background-color: #22c3e6; color: white; text-align: center; text-decoration: none; border-radius: 10px; font-family: sans-serif; font-weight: bold;">
     Desarrollo con IA
   </a>
 
-  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 15px 30px; text-decoration: none; border-radius: 10px; font-weight: bold; font-family: Arial, sans-serif; width: 220px; text-align: center; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+  <a href="https://github.com/garciaw602/Acerca-de-m-" style="display: inline-block; width: 250px; padding: 15px; background-color: #22c3e6; color: white; text-align: center; text-decoration: none; border-radius: 10px; font-family: sans-serif; font-weight: bold;">
     Acerca de mí
   </a>
 
 </div>
-
 
 
 
