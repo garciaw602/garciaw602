@@ -20,11 +20,11 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
   
   <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; width: 200px; text-align: center; display: block;">
     Videojuegos
-  </a>
+  </a></p>
 
   <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; width: 200px; text-align: center; display: block;">
     Desarrollo con IA
-  </a>
+  </a></p>
 
   <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; width: 200px; text-align: center; display: block;">
     Acerca de mí
