@@ -1,32 +1,24 @@
-
-
-<h4><a href="https://github.com/garciaw602/EnRuta-EndlessRunner/tree/main" style="color:#22c3e6;">🎮 Enruta: Endless Runner 3D</a></h4> 
-
-
-
-
 <div align="center">
     <a href='https://postimages.org/' target='_blank'><img src='https://i.ibb.co/8g0fW19q/Gemini-Generated-Image-hnn4fmhnn4fmhnn4-removebg-preview-1.png' border='0' alt='banner-git-removebg-preview-1'/></a>
 </div>
-
-
-
 <div align="center" style="color:#148c2e;">
   <br>
-  <h3 style="color:#148c2e;">!HOLA! </h3>
-  <p style="color:#148c2e;">Soy ingeniero en sistemas
-        <br>
-     con experiencia en desarrollador de software, aplicaciones y soporte tecnológico empresarial.
-	  
+	<h3 style="color:#148c2e;">!HOLA! </h3>
+  		<p style="color:#148c2e;">Soy ingeniero en sistemas
+  <br>
+con experiencia en desarrollador de software, aplicaciones y soporte tecnológico empresarial.
 Me apasiona aprovechar la tecnología como herramienta para lograr objetivos.
 Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación de espacios inmersivos y las mecánicas para poder disfrutar de estos espacios.
-.
   </p>
 </div>
 
 
 
 
+
+<h4><a href="https://github.com/garciaw602/Acerca-de-m-" style="color:#22c3e6;">Videojuegos</a></h4>
+<h4><a href="https://github.com/garciaw602/Acerca-de-m-" style="color:#22c3e6;">Desarrollo con IA</a></h4>
+<h4><a href="https://github.com/garciaw602/Acerca-de-m-" style="color:#22c3e6;">Acerca de mí</a></h4> 
 
 
 
