@@ -16,17 +16,17 @@ Actualmente me encuentro sumergido en el mundo de los videojuegos, la creación 
 
 
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 12px; margin-top: 20px;">
-  
-  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; width: 200px; text-align: center; display: block;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 100vh; gap: 15px;">
+
+  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 15px 30px; text-decoration: none; border-radius: 10px; font-weight: bold; font-family: Arial, sans-serif; width: 220px; text-align: center; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
     Videojuegos
-  </a></p>
+  </a>
 
-  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; width: 200px; text-align: center; display: block;">
+  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 15px 30px; text-decoration: none; border-radius: 10px; font-weight: bold; font-family: Arial, sans-serif; width: 220px; text-align: center; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
     Desarrollo con IA
-  </a></p>
+  </a>
 
-  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif; width: 200px; text-align: center; display: block;">
+  <a href="https://github.com/garciaw602/Acerca-de-m-" style="background-color: #22c3e6; color: white; padding: 15px 30px; text-decoration: none; border-radius: 10px; font-weight: bold; font-family: Arial, sans-serif; width: 220px; text-align: center; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
     Acerca de mí
   </a>
 
