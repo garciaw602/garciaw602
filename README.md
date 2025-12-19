@@ -1,8 +1,11 @@
+<!-- Banner -->
 <div align="center">
     <a href='https://postimages.org/' target='_blank'><img src='https://i.ibb.co/8g0fW19q/Gemini-Generated-Image-hnn4fmhnn4fmhnn4-removebg-preview-1.png' border='0' alt='banner-git-removebg-preview-1'/></a>	
 </div>
 
 
+
+<!-- Introduciónn -->
 <div align="center" style="max-width: 800px; margin: 0 auto;">
   <br>
   <h3 style="color:#148c2e; text-align: center;">!HOLA!</h3>
@@ -14,10 +17,7 @@
   </p>
 </div>
 
-
-
-
-
+<!-- Enlaces -->
 <table align="center">
   
   <tr>
@@ -46,7 +46,7 @@
 
 </table>
 
-
+<!-- Contacto -->
 
 
 <p align="center">
