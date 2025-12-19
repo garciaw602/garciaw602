@@ -30,7 +30,7 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/garciaw602/Acerca-de-m-" style="display: block; width: 200px; padding: 10px; background-color: #22c3e6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-family: sans-serif;">
+      <a href="https://github.com/garciaw602/Desarrollo-con-IA/tree/main#readme" style="display: block; width: 200px; padding: 10px; background-color: #22c3e6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-family: sans-serif;">
         Desarrollo con IA
       </a>
     </td>
@@ -80,62 +80,6 @@
 
 
 
-<div align="center" style="color:#148c2e;">
-  <br>
-  <h3>Otros Proyectos</h3>
-  
-  <table width="100%" align="center">
-	     <tr>
-      <td width="30%" align="center">
-        <a href="https://github.com/garciaw602/GestionRIesgo">
-          <img src="https://github.com/garciaw602/GestionRIesgo/blob/main/GestiondeRiesgo.gif" alt="GIF del juego Elara" width="200" style="margin-bottom: 10px;">
-        </a>
-      </td>
-      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-        <h4><a href="https://github.com/garciaw602/GestionRIesgo" style="color:#22c3e6;">Gestor de Riesgo (TRADING)</a></h4>
-        <p>
-</div>	
-<br>  </p>	
-
-• Dirección Estratégica y Desarrollo:
-Ingeniería Financiera: Ideé el núcleo del sistema basado en "Gestión por Bloques". Diseñé un algoritmo híbrido que alterna automáticamente entre interés compuesto (para maximizar rachas positivas) y recuperación controlada (para mitigar pérdidas), definiendo límites estrictos de Take Profit (3.33%) y Stop Loss (3%).
-
-• Arquitectura de Software: Estructuré la aplicación utilizando React 19, TypeScript y Vite. Implementé una arquitectura modular basada en Custom Hooks (useTradingLogic) para separar el motor de cálculo matemático de la interfaz visual, garantizando reactividad y precisión.
-
-*Diseño de Producto (UX/UI): Definí una interfaz de alta prioridad con Tailwind CSS y Radix UI, centrada en la visualización de datos críticos (Stake sugerido y Capital actual). Incluí sistemas de retroalimentación visual y auditiva para reforzar la disciplina operativa del usuario.
-
-• Análisis y Persistencia: Conceptualicé herramientas de journaling y análisis estadístico, incluyendo un "Heatmap" de consistencia mensual y curvas de equidad mediante Recharts. La persistencia se maneja localmente para garantizar la privacidad total de los datos financieros.
-
-• Validación Técnica: supervisé la precisión de los algoritmos de cálculo para asegurar cero margen de error en operaciones con capital real, iterando constantemente sobre la usabilidad del Dashboard. </p></p>
-          <a href="https://gestionriesgo.vercel.app/" style="color:#22c3e6;">➡️ Prueba la aplicacion en vercel</a>
-        </p></p>	 
-		Google AI Studio</p>
-      </td>
-    </tr>  
-	<tr>
-	      <td colspan="2">
-        <hr style="border-top: 1px solid #22c3e6; margin: 20px 0;">
-      </td>
-    </tr>
-    <tr>
-		     <td width="30%" align="center">
-        <a href="https://github.com/Thingy25/GenJam1">
-          <img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro2.gif" alt="GIF MotopaintPro" width="200" style="margin-bottom: 10px;">
-        </a>
-      </td>
-      <td width="70%" align="left" style="vertical-align: top; padding-left: 20px;">
-	   <h4><a href="https://github.com/garciaw602/Motopaint-Pro" style="color:#22c3e6;">MotoPaintPro</a></h4>
-• Lógica de Negocio: Ideé el flujo operativo secuencial (Pre-alistamiento a Entrega) con control granular por pieza. Definí reglas automáticas de estados y optimización de procesos según el acabado (Mate vs. Brillante).</p>
-• Arquitectura y Seguridad: Estructuré un sistema de roles y permisos (RBAC) para Administración, Recepción, Operarios y Mensajería, garantizando que cada usuario acceda solo a la información crítica para su labor.</p>
-• Diseño UI/UX: Definí los requerimientos de una interfaz responsiva con Tailwind CSS, optimizada para el uso móvil de los operarios y un Dashboard con métricas en tiempo real para la gestión administrativa.</p>
-• Integración de IA: Implementé la API de Google Gemini para reportes de productividad automáticos y optimización logística de rutas. Incorporé Text-to-Speech (TTS) para briefings operativos manos libres.</p>
-
-• Control de Calidad: Supervisé la corrección de errores en lógica de permisos y servicios de almacenamiento, además de estructurar datos semilla realistas para validación y demos.</p></p>
-
-Google AI Studio
-
-</div>
-    </table>
 
 <img src="https://github.com/garciaw602/garciaw602/blob/main/ciber2.gif" alt="GIF del juego Enruta" width="300" style="margin-bottom: 10px;">
 
